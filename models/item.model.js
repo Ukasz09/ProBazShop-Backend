@@ -1,7 +1,6 @@
 module.exports = mongoose => {
     var schema = mongoose.Schema(
             {
-                _id: String,
                 title: String,
                 description: String,
                 category: String,
