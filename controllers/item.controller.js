@@ -3,7 +3,7 @@ const Item = db.items;
 
 exports.create = (req, res) => {
   // Validate request
-  if (!req.body.title) {
+  if (!req.body.name) {
     res.status(400).send({ message: "Content can not be empty!" });
     return;
   }
@@ -11,13 +11,16 @@ exports.create = (req, res) => {
   // Create an item
   const item = new Item({
 
-              title: req.body.title,
-              description: req.body.description,
-              category: req.body.category,
-              price: req.body.price,
+              name: req.body.name,
+              description: req.body.description,              
+              imageURL: req.body.imageURL,
+              size: req.body.size,
               color: req.body.color,
-              size: req.bodysize,
-              img: req.body.img
+              price: req.body.price,
+              starRating: req.body.starRating,
+              category: req.body.category,
+              colorGroup: req.body.colorGroup,
+              availableQty: req.body.availableQty
           },
 );
 
@@ -35,9 +38,10 @@ exports.create = (req, res) => {
     });
 };
 
+//Find all items with given words in name
 exports.findAll = (req, res) => {
-  const title = req.query.title;
-  var condition = title ? { title: { $regex: new RegExp(title), $options: "i" } } : {};
+  const name = req.query.name;
+  var condition = name ? { name: { $regex: new RegExp(name), $options: "i" } } : {};
 
   Item.find(condition)
     .then(data => {
@@ -116,6 +120,7 @@ exports.delete = (req, res) => {
     });
 };
   
+//delete all items
 exports.deleteAll = (req, res) => {
   Item.deleteMany({})
     .then(data => {
@@ -130,3 +135,51 @@ exports.deleteAll = (req, res) => {
       });
     });
 };
+
+exports.filter = (req, res) =>  {
+
+  var filterCategory = req.body.category;
+  var filterColor = req.body.color;
+  var filterSize = req.body.size;
+  
+
+  let filterParameters;
+
+  if (filterColor != '' && filterCategory != '' && filterBrand != '') {
+      filterParameters = { $and: [{ name: filterSize }, { $and: [{ category: filterCategory }, { brand: filterBrand }] }]};
+  }
+  else if (filterSize == '' && filterCategory != '' && filterColor != '') {
+      filterParameters = { $and: [{ category: filterCategory }, { brand: filterBrand }] };
+  }
+  else if (filterSize != '' && filterCategory == '' && filterBrand != '') {
+      filterParameters = { $and: [{ name: name }, { brand: filterBrand }] };
+  }
+  else if (filterSize != '' && filterCategory != '' && filterBrand == '') {
+      filterParameters = { $and: [{ name: name }, { category: filterCategory }] };
+  }
+  else if (filterSize == '' && filterCategory == '' && filterBrand != '') {
+      filterParameters = { brand: filterBrand };
+  }
+  else if (filterSize != '' && filterCategory == '' && filterBrand == '') {
+      filterParameters = { name: filterSize };
+  }
+  else if (filterSize == '' && filterCategory != '' && filterBrand == '') {
+      filterParameters = { category:filterCategory };
+  }
+  else {
+      filterParameters = {};
+  }
+
+  Item.find(filterParameters, (err, doc) => {
+      if (!err) {
+          res.render({
+              list: doc
+          });
+      }
+      else {
+          console.log('Error in retrieving product list : ' + err);
+      }
+  });
+ 
+};
+
