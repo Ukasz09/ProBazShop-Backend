@@ -19,7 +19,6 @@ exports.create = (req, res) => {
               price: req.body.price,
               starRating: req.body.starRating,
               category: req.body.category,
-              colorGroup: req.body.colorGroup,
               availableQty: req.body.availableQty
           },
 );
@@ -38,22 +37,77 @@ exports.create = (req, res) => {
     });
 };
 
-//Find all items with given words in name
+//Find all items with filters
 exports.findAll = (req, res) => {
-  const name = req.query.name;
-  var condition = name ? { name: { $regex: new RegExp(name), $options: "i" } } : {};
 
-  Item.find(condition)
-    .then(data => {
-      res.send(data);
-    })
-    .catch(err => {
-      res.status(500).send({
-        message:
-          err.message || "Some error occurred while retrieving items. "
+  const { name, category, size, price_from, price_to, color, starRating, sort} = req.query;
+  let query = {};
+
+  if(name) {
+    query.name = { $regex: new RegExp(name), $options: "i" }
+  }
+
+  if(category){
+
+    const categories = category.split(',');
+    query.category = categories;
+  }
+
+  if(size) {
+   
+    const sizes = size.split(',');
+    query.size = sizes;
+  }
+
+  if(price_from || price_to){
+
+    if(price_from && price_to){
+      query.price = {$gt: price_from, $lt: price_to};
+    }
+    else if (price_from){
+      
+      query.price = {$gt: price_from};
+    }
+    else{
+
+      query.price = {$lt: price_to};
+    }
+  }
+
+  if(color){
+
+    const colors = color.split(',');
+    for(var i=0; i < colors.length; i++){
+      colors[i] = "#" + colors[i];
+  }
+    query.color = colors;
+  }
+
+  if(starRating){
+    query.starRating = {$gt: starRating};
+  }
+
+  //sorting params
+  let sort_param = {};
+
+  if(sort){
+    sort_param = {price: sort};
+  }
+  else{
+    sort_param = {createdAt: 'desc'};
+  }
+
+    Item.find(query).sort(sort_param)
+      .then(data => {
+        res.send(data);
+      })
+      .catch(err => {
+        res.status(500).send({
+          message:
+            err.message || "Some error occurred while retrieving items. "
+        });
       });
-    });
-};
+  };
 
 // Find an single Item with an id
 exports.findOne = (req, res) => {
@@ -136,50 +190,5 @@ exports.deleteAll = (req, res) => {
     });
 };
 
-exports.filter = (req, res) =>  {
 
-  var filterCategory = req.body.category;
-  var filterColor = req.body.color;
-  var filterSize = req.body.size;
-  
-
-  let filterParameters;
-
-  if (filterColor != '' && filterCategory != '' && filterBrand != '') {
-      filterParameters = { $and: [{ name: filterSize }, { $and: [{ category: filterCategory }, { brand: filterBrand }] }]};
-  }
-  else if (filterSize == '' && filterCategory != '' && filterColor != '') {
-      filterParameters = { $and: [{ category: filterCategory }, { brand: filterBrand }] };
-  }
-  else if (filterSize != '' && filterCategory == '' && filterBrand != '') {
-      filterParameters = { $and: [{ name: name }, { brand: filterBrand }] };
-  }
-  else if (filterSize != '' && filterCategory != '' && filterBrand == '') {
-      filterParameters = { $and: [{ name: name }, { category: filterCategory }] };
-  }
-  else if (filterSize == '' && filterCategory == '' && filterBrand != '') {
-      filterParameters = { brand: filterBrand };
-  }
-  else if (filterSize != '' && filterCategory == '' && filterBrand == '') {
-      filterParameters = { name: filterSize };
-  }
-  else if (filterSize == '' && filterCategory != '' && filterBrand == '') {
-      filterParameters = { category:filterCategory };
-  }
-  else {
-      filterParameters = {};
-  }
-
-  Item.find(filterParameters, (err, doc) => {
-      if (!err) {
-          res.render({
-              list: doc
-          });
-      }
-      else {
-          console.log('Error in retrieving product list : ' + err);
-      }
-  });
- 
-};
 
