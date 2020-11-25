@@ -190,5 +190,20 @@ exports.deleteAll = (req, res) => {
     });
 };
 
+//get available categories
+exports.categories = (req, res) => {
+  
+  Item.distinct("category")
+    .then(data => {
+      res.send(data);
+    })
+    .catch(err => {
+      res.status(500).send({
+        message:
+          err.message || "Some error occurred while retrieving categories. "
+      });
+    });  
+};
+
 
 

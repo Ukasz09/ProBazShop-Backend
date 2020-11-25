@@ -22,4 +22,7 @@ module.exports = app => {
   router.delete("/", items.deleteAll);
 
   app.use('/api/items', router);
+
+  // Get available categories
+  app.get('/api/categories', items.categories);
 };
