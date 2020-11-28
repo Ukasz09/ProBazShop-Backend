@@ -14,6 +14,7 @@ exports.create = (req, res) => {
       surname: req.body.surname,
       email: req.body.email,
       password: req.body.password,
+      type: req.body.type,
       history: req.body.history,
     });
   
