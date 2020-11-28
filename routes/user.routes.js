@@ -24,7 +24,9 @@ module.exports = app => {
     app.use('/api/users', router);
 
     //Get orderedItems by user_id
-    app.get('/api/history', users.history);
     app.get('/api/history/:id', users.historyid);
+
+
+    app.get('/api/login', users.login);
   };
   

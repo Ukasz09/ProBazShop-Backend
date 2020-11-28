@@ -1,4 +1,5 @@
 const db = require("../models");
+const { findOne } = require("./item.controller");
 const User = db.users;
 
 exports.create = (req, res) => {
@@ -132,19 +133,7 @@ exports.deleteAll = (req, res) => {
       });
     });
 };
-//get ordered Items by user_id
-exports.history = (req, res) => {
-  User.find(query)
-    .then(data => {
-      res.send(data);
-    })
-    .catch(err => {
-      res.status(500).send({
-        message:
-          err.message || "Some error occurred while retrieving categories. "
-      });
-    });  
-  };
+
 exports.historyid = (req, res) => {
   const id = req.params.id;
   User.findById(id).distinct("history")
@@ -158,3 +147,29 @@ exports.historyid = (req, res) => {
             });
           });  
       };
+
+
+  
+exports.login = (req, res) => {
+
+  const email = req.params.email;
+  const password = req.params.password;
+
+  User.findOne({'email':req.body.email}, function(err,user1){
+    if(user1) {
+      User.findOne({'password':req.body.password}, function(err, user2){
+        if(user2){
+          
+          return res.json({message : "You're logged in"})
+          res.send(data); //TODO
+        }
+        else{
+          return res.json({message : ' Bad password!'})
+        }
+      }
+      )}
+    else{ 
+      return res.json({message : ' Bad login data!'})
+    }
+  
+})};
