@@ -22,5 +22,10 @@ module.exports = app => {
     router.delete("/", users.deleteAll);
   
     app.use('/api/users', router);
+
+    //Get orderedItems by user_id
+    app.get('/api/history', users.history);
+    app.get('/api/history/:id', users.historyid);
+
   };
   

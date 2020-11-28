@@ -129,6 +129,29 @@ exports.deleteAll = (req, res) => {
       });
     });
 };
-
-
-
+//get ordered Items by user_id
+exports.history = (req, res) => {
+  User.find(query)
+    .then(data => {
+      res.send(data);
+    })
+    .catch(err => {
+      res.status(500).send({
+        message:
+          err.message || "Some error occurred while retrieving categories. "
+      });
+    });  
+  };
+exports.historyid = (req, res) => {
+  const id = req.params.id;
+  User.findById(id).distinct("history")
+        .then(data => {
+          res.send(data);
+        })
+        .catch(err => {
+          res.status(500).send({
+            message:
+              err.message || "Some error occurred while retrieving categories. "
+            });
+          });  
+      };
