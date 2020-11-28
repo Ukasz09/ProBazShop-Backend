@@ -30,6 +30,7 @@ db.mongoose
 
 require("./routes/item.routes.js")(app);
 require("./routes/user.routes.js")(app);
+require("./routes/orderedItem.routes.js")(app);
 
 
 // set port, listen for requests
