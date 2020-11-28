@@ -17,19 +17,22 @@ exports.create = (req, res) => {
       type: req.body.type,
       history: req.body.history,
     });
-  
-    // Save User in the database
-    user
-      .save(user)
-      .then(data => {
-        res.send(data);
-      })
-      .catch(err => {
-        res.status(500).send({
-          message:
-            err.message || "Some error occurred while creating the User."
-        });
-      });
+    User.findOne({'email':req.body.email}, function(err,user1){
+      if(user1) return res.json({isAuth : false, message : ' Account exists, email found'});
+      else{     // Save User in the database
+      user
+        .save(user)
+        .then(data => {
+          res.send(data);
+        })
+        .catch(err => {
+          res.status(500).send({
+            message:
+              err.message || "Some error occurred while creating the User."
+          });
+        });}
+    });
+
   };
   
   exports.findAll = (req, res) => {

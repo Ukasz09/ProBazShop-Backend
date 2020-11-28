@@ -26,6 +26,5 @@ module.exports = app => {
     //Get orderedItems by user_id
     app.get('/api/history', users.history);
     app.get('/api/history/:id', users.historyid);
-
   };
   
