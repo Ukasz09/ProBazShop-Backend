@@ -1,6 +1,5 @@
-module.exports = app => {
+module.exports = (app) => {
   const items = require("../controllers/item.controller.js");
-
   var router = require("express").Router();
 
   // Create a new Item
@@ -21,8 +20,8 @@ module.exports = app => {
   // Delete all Items
   router.delete("/", items.deleteAll);
 
-  app.use('/api/items', router);
+  app.use("/api/items", router);
 
   // Get available categories
-  app.get('/api/categories', items.categories);
+  app.get("/api/categories", items.categories);
 };

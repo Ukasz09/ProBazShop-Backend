@@ -1,6 +1,5 @@
 module.exports = app => {
     const users = require("../controllers/user.controller.js");
-  
     var router = require("express").Router();
   
     // Create a new User
@@ -23,10 +22,10 @@ module.exports = app => {
   
     app.use('/api/users', router);
 
-    //Get orderedItems by user_id
+    // Get orderedItems by user_id
     app.get('/api/history/:id', users.historyid);
 
-
+    // Logon user
     app.get('/api/login', users.login);
   };
   

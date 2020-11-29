@@ -21,6 +21,5 @@ module.exports = (mongoose) => {
   });
 
   const Item = mongoose.model("item", schema);
-
   return Item;
 };
