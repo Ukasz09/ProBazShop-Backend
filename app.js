@@ -9,7 +9,6 @@ var corsOptions = {
 };
 
 app.use(cors(corsOptions));
-
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true}));
 
@@ -34,7 +33,7 @@ require("./routes/orderedItem.routes.js")(app);
 
 
 // set port, listen for requests
-const PORT = process.env.PORT || 4200;
+const PORT = process.env.PORT || 5200;
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}.`);
 });

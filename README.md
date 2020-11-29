@@ -1,16 +1,26 @@
-# ProBazShop-Backend
-# Prerequisites
+# ProBazShop - Backend
+
+## Prerequisites
+
 Make sure you have installed all of the following prerequisites on your development machine:
-* express
-* mongoose
-* body-parser
-* cors
+
+- express
+- mongoose
+- body-parser
+- cors
+
 ```bash
-npm install express mongoose body-parser cors --save
+npm install --save
 ```
 
+## Running Application
 
-# Running Application
-```javascript
+```bash
 node app.js
+```
+
+or
+
+```bash
+npm start
 ```
