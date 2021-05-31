@@ -1,6 +1,45 @@
+passport = require("passport");
+require("dotenv").config();
+FacebookStrategy = require("passport-facebook").Strategy;
+
 const db = require("../models");
 const { findOne } = require("./item.controller");
 const User = db.users;
+
+passport.serializeUser(function (user, done) {
+  done(null, user);
+});
+
+passport.deserializeUser(function (obj, done) {
+  done(null, obj);
+});
+
+passport.use(
+  new FacebookStrategy(
+    {
+      clientID: process.env.FACEBOOK_CLIENT_ID,
+      clientSecret: process.env.FACEBOOK_CLIENT_SECRET,
+      callbackURL: process.env.FACEBOOK_CALLBACK_URL,
+      profileFields: ["email", "name"],
+    },
+    function (accessToken, refreshToken, profile, done) {
+      // TODO: refactor
+      console.log(accessToken);
+      // const { email, first_name, last_name } = profile._json;
+      // const user = new User({
+      //   name: first_name,
+      //   surname: last_name,
+      //   email: email,
+      //   password: null,
+      //   type: "CLIENT",
+      //   history: [],
+      // });
+
+      // user.save();
+      done(null, profile);
+    }
+  )
+);
 
 exports.create = (req, res) => {
   // Validate request

@@ -3,7 +3,7 @@ module.exports = (mongoose) => {
     {
       name: String,
       description: String,
-      imageURL: String,
+      imageUrl: String,
       size: String,
       color: String,
       price: Number,
