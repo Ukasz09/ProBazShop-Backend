@@ -1,5 +1,8 @@
+require("dotenv").config();
+const querystring = require("querystring");
+
 module.exports = (app) => {
-  var router = require("express").Router();
+  const router = require("express").Router();
 
   // ---------------------------------------------------  Facebook authentication  --------------------------------------------------- //
 
@@ -13,12 +16,15 @@ module.exports = (app) => {
     })
   );
 
-  router.get("/fail", (req, res) => {
-    res.send("Failed attempt");
+  router.get("/success", (req, res) => {
+    const query = querystring.stringify({ email: "test@mail.com" });
+    const redirectUrl = `${process.env.AUTH_CALLBACK_URL}/?${query}`;
+    res.redirect(redirectUrl);
   });
 
-  router.get("/success", (req, res) => {
-    res.redirect("http://localhost:4200");
+  router.get("/fail", (req, res) => {
+    const redirectUrl = `${process.env.AUTH_CALLBACK_URL}`;
+    res.redirect(redirectUrl);
   });
 
   app.use("/auth", router);

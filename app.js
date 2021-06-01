@@ -1,5 +1,5 @@
-const passport = require("passport");
 require("dotenv").config();
+const passport = require("passport");
 const express = require("express");
 const session = require("express-session");
 const bodyParser = require("body-parser");

@@ -1,9 +1,8 @@
-passport = require("passport");
 require("dotenv").config();
+passport = require("passport");
 FacebookStrategy = require("passport-facebook").Strategy;
 
 const db = require("../models");
-const { findOne } = require("./item.controller");
 const User = db.users;
 
 passport.serializeUser(function (user, done) {
@@ -90,20 +89,6 @@ exports.findAll = (req, res) => {
     });
 };
 
-// Find an single User with an id
-exports.findOne = (req, res) => {
-  const id = req.params.id;
-
-  User.findById(id)
-    .then((data) => {
-      if (!data) res.status(404).send({ message: "Not found User with id " + id });
-      else res.send(data);
-    })
-    .catch((err) => {
-      res.status(500).send({ message: "Error retrieving User with id=" + id });
-    });
-};
-
 exports.update = (req, res) => {
   if (!req.body) {
     return res.status(400).send({
@@ -180,15 +165,21 @@ exports.historyid = (req, res) => {
     });
 };
 
-exports.login = (req, res) => {
-  const email = req.query.email;
-  const password = req.query.password;
-  User.findOne({ email: email, password: password })
+exports.findUser = (req, res) => {
+  const email = req.params.email;
+  User.findOne({ email: email })
     .then((data) => {
-      if (!data) res.status(401).send({ message: "Incorrect logon data " });
-      else res.send(data);
+      if (!data) {
+        res.status(404).send({
+          message: `User with email=${email} has not been found!`,
+        });
+      } else {
+        res.send(data);
+      }
     })
-    .catch((err) => {
-      res.status(500).send({ message: "Error user login: " + err });
+    .catch((_) => {
+      res.status(500).send({
+        message: "Some error occurred while retrieving user data",
+      });
     });
 };
