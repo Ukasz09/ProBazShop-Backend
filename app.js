@@ -5,8 +5,12 @@ const session = require("express-session");
 const bodyParser = require("body-parser");
 const cors = require("cors");
 const app = express();
+const accessControlMiddleware = require("./utils/access-control.middleware");
 
 var corsOptions = { origin: process.env.FRONTEND_URL };
+
+// Add headers
+app.use(accessControlMiddleware.accessControlSetup);
 
 app.use(
   session({
