@@ -1,6 +1,7 @@
 module.exports = (mongoose) => {
   var schema = mongoose.Schema(
     {
+      facebookId: String,
       name: String,
       surname: String,
       email: String,

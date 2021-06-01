@@ -4,7 +4,7 @@ module.exports = (app) => {
 
   router.post("/", users.create);
   router.get("/", users.findAll);
-  router.get("/:email", users.findUser);
+  router.get("/:facebookId", users.findUser);
   router.put("/:id", users.update);
   router.delete("/:id", users.delete);
   router.delete("/", users.deleteAll);

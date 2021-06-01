@@ -8,33 +8,33 @@ const User = db.users;
 passport.serializeUser(function (user, done) {
   done(null, user);
 });
-
 passport.deserializeUser(function (obj, done) {
   done(null, obj);
 });
-
 passport.use(
   new FacebookStrategy(
     {
       clientID: process.env.FACEBOOK_CLIENT_ID,
       clientSecret: process.env.FACEBOOK_CLIENT_SECRET,
       callbackURL: process.env.FACEBOOK_CALLBACK_URL,
-      profileFields: ["email", "name"],
+      profileFields: ["name"],
     },
     function (accessToken, refreshToken, profile, done) {
-      // TODO: refactor
-      console.log(accessToken);
-      // const { email, first_name, last_name } = profile._json;
-      // const user = new User({
-      //   name: first_name,
-      //   surname: last_name,
-      //   email: email,
-      //   password: null,
-      //   type: "CLIENT",
-      //   history: [],
-      // });
-
-      // user.save();
+      const facebookId = profile.id;
+      const { first_name, last_name } = profile._json;
+      User.findOne({ facebookId: facebookId }, function (err, data) {
+        if (!data) {
+          // Save in db
+          const user = new User({
+            facebookId: facebookId,
+            name: first_name,
+            surname: last_name,
+            type: "CLIENT",
+            history: [],
+          });
+          user.save(user);
+        }
+      });
       done(null, profile);
     }
   )
@@ -166,12 +166,12 @@ exports.historyid = (req, res) => {
 };
 
 exports.findUser = (req, res) => {
-  const email = req.params.email;
-  User.findOne({ email: email })
+  const facebookId = req.params.facebookId;
+  User.findOne({ facebookId: facebookId })
     .then((data) => {
       if (!data) {
         res.status(404).send({
-          message: `User with email=${email} has not been found!`,
+          message: `User has not been found !`,
         });
       } else {
         res.send(data);
