@@ -17,7 +17,7 @@ module.exports = (app) => {
   );
 
   router.get("/success", (req, res) => {
-    const query = querystring.stringify({ facebookId: req.user.id });
+    const query = querystring.stringify({ email: req.user.email });
     const redirectUrl = `${process.env.AUTH_CALLBACK_URL}/?${query}`;
     res.redirect(redirectUrl);
   });

@@ -4,12 +4,12 @@ module.exports = (app) => {
 
   router.post("/", users.create);
   router.get("/", users.findAll);
-  router.get("/:facebookId", users.findUser);
-  router.put("/:id", users.update);
-  router.delete("/:id", users.delete);
+  router.get("/:email", users.findUser);
+  router.put("/:email", users.update);
+  router.delete("/:email", users.delete);
   router.delete("/", users.deleteAll);
 
   app.use("/api/users", router);
 
-  app.get("/api/history/:id", users.historyid);
+  app.get("/api/history/:email", users.historyid);
 };

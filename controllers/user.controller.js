@@ -17,16 +17,16 @@ passport.use(
       clientID: process.env.FACEBOOK_CLIENT_ID,
       clientSecret: process.env.FACEBOOK_CLIENT_SECRET,
       callbackURL: process.env.FACEBOOK_CALLBACK_URL,
-      profileFields: ["name"],
+      profileFields: ["name", "email"],
     },
     function (accessToken, refreshToken, profile, done) {
-      const facebookId = profile.id;
-      const { first_name, last_name } = profile._json;
-      User.findOne({ facebookId: facebookId }, function (err, data) {
+      const { first_name, last_name, email } = profile._json;
+      User.findOne({ email: email }, function (err, data) {
         if (!data) {
           // Save in db
           const user = new User({
-            facebookId: facebookId,
+            facebookId: profile.id,
+            email: email,
             name: first_name,
             surname: last_name,
             type: "CLIENT",
@@ -96,32 +96,31 @@ exports.update = (req, res) => {
     });
   }
 
-  const id = req.params.id;
+  const email = req.params.email;
 
-  User.findByIdAndUpdate(id, req.body, { useFindAndModify: false })
+  User.findOneAndUpdate({ email: email }, req.body, { useFindAndModify: false })
     .then((data) => {
       if (!data) {
         res.status(404).send({
-          message: `Cannot update User with id=${id}. Maybe User was not found!`,
+          message: `Cannot update User with email=${email}`,
         });
       } else res.send({ message: "User was updated successfully." });
     })
     .catch((err) => {
       res.status(500).send({
-        message: "Error updating User with id=" + id,
+        message: `Error updating User with email=${email}`,
       });
     });
 };
 
-// Delete an User with the specified id in the request
 exports.delete = (req, res) => {
-  const id = req.params.id;
+  const email = req.params.email;
 
-  User.findByIdAndRemove(id)
+  User.findOneAndRemove({ email: email })
     .then((data) => {
       if (!data) {
         res.status(404).send({
-          message: `Cannot delete User with id=${id}. Maybe User was not found!`,
+          message: `Cannot delete User with email=${email}`,
         });
       } else {
         res.send({
@@ -129,9 +128,9 @@ exports.delete = (req, res) => {
         });
       }
     })
-    .catch((err) => {
+    .catch((_) => {
       res.status(500).send({
-        message: "Could not delete User with id=" + id,
+        message: `Could not delete User with email=${email}`,
       });
     });
 };
@@ -152,8 +151,8 @@ exports.deleteAll = (req, res) => {
 };
 
 exports.historyid = (req, res) => {
-  const id = req.params.id;
-  User.findById(id)
+  const email = req.params.email;
+  User.findOne({ email: email })
     .distinct("history")
     .then((data) => {
       res.send(data);
@@ -166,8 +165,8 @@ exports.historyid = (req, res) => {
 };
 
 exports.findUser = (req, res) => {
-  const facebookId = req.params.facebookId;
-  User.findOne({ facebookId: facebookId })
+  const email = req.params.email;
+  User.findOne({ email: email })
     .then((data) => {
       if (!data) {
         res.status(404).send({
