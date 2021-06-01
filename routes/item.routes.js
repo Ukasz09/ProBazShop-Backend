@@ -1,4 +1,5 @@
-var passport = require("passport");
+const authMiddleware = require("../utils/auth.middleware");
+
 module.exports = (app) => {
   const items = require("../controllers/item.controller.js");
   var router = require("express").Router();
@@ -22,16 +23,11 @@ module.exports = (app) => {
     next();
   });
 
-  function isLoggedIn(req, res, next) {
-    if (req.isAuthenticated()) return next();
-    res.status(401).send({ message: "Not authenticated" });
-  }
-
   // Create a new Item
   router.post("/", items.create);
 
   // Retrieve all Items
-  router.get("/", isLoggedIn, items.findAll);
+  router.get("/", authMiddleware.isLoggedIn, items.findAll);
 
   // Retrieve a single Item with id
   router.get("/:id", items.findOne);
@@ -45,8 +41,6 @@ module.exports = (app) => {
   // Delete all Items
   router.delete("/", items.deleteAll);
 
-  app.use(passport.initialize());
-  app.use(passport.session());
   app.use("/api/items", router);
 
   // Get available categories
