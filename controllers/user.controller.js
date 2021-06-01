@@ -182,3 +182,31 @@ exports.findUser = (req, res) => {
       });
     });
 };
+
+exports.orderItems = (req, res) => {
+  if (!req.body) {
+    return res.status(400).send({
+      message: "Data to update can not be empty!",
+    });
+  }
+  const email = req.query.email;
+  const cartItems = req.body;
+
+  const filter = { email: email };
+  const update = { $push: { history: { $each: cartItems } } };
+  User.findOneAndUpdate(filter, update, { useFindAndModify: false })
+    .then((data) => {
+      if (!data) {
+        res.status(404).send({
+          message: `Cannot find user with email=${email}`,
+        });
+      } else {
+        res.send({ message: "Purchase has been made" });
+      }
+    })
+    .catch(() => {
+      res.status(500).send({
+        message: `Error - purchase has NOT been made`,
+      });
+    });
+};

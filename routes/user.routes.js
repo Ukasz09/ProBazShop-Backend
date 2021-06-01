@@ -12,4 +12,5 @@ module.exports = (app) => {
   app.use("/api/users", router);
 
   app.get("/api/history/:email", users.historyid);
+  app.post("/api/order", users.orderItems);
 };

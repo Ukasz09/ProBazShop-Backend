@@ -17,7 +17,8 @@ module.exports = (app) => {
   );
 
   router.get("/success", (req, res) => {
-    const query = querystring.stringify({ email: req.user.email });
+    const email = req.user._json.email;
+    const query = querystring.stringify({ email: email });
     const redirectUrl = `${process.env.AUTH_CALLBACK_URL}/?${query}`;
     res.redirect(redirectUrl);
   });
