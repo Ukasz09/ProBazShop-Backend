@@ -40,5 +40,14 @@ module.exports = (app) => {
     });
   });
 
+  router.get("/isAuthenticated", authMiddleware.isLoggedIn, (req, res) => {
+    const email = req.user._json.email;
+    if (email) {
+      res.send({ email: email });
+      return;
+    }
+    res.status(500).send({ message: "Not found user's email" });
+  });
+
   app.use("/auth", router);
 };
