@@ -1,5 +1,6 @@
 require("dotenv").config();
 const querystring = require("querystring");
+const authMiddleware = require("../utils/auth.middleware");
 
 module.exports = (app) => {
   const router = require("express").Router();
@@ -26,6 +27,17 @@ module.exports = (app) => {
   router.get("/fail", (req, res) => {
     const redirectUrl = `${process.env.AUTH_CALLBACK_URL}`;
     res.redirect(redirectUrl);
+  });
+
+  router.get("/logout", authMiddleware.isLoggedIn, (req, res) => {
+    req.session.destroy((err) => {
+      if (err) {
+        res.status(500).send({ message: "Logout failed" });
+        return;
+      }
+      req.logout();
+      res.send({ message: "Successfull logout" });
+    });
   });
 
   app.use("/auth", router);
