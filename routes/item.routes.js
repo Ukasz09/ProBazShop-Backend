@@ -5,22 +5,22 @@ module.exports = (app) => {
   var router = require("express").Router();
 
   // Create a new Item
-  router.post("/", items.create);
+  router.post("/", authMiddleware.isLoggedIn, items.create);
 
   // Retrieve all Items
-  router.get("/", authMiddleware.isLoggedIn, items.findAll);
+  router.get("/", items.findAll);
 
   // Retrieve a single Item with id
   router.get("/:id", items.findOne);
 
   // Update a Item with id
-  router.put("/:id", items.update);
+  router.put("/:id", authMiddleware.isLoggedIn, items.update);
 
   // Delete a Item with id
-  router.delete("/:id", items.delete);
+  router.delete("/:id", authMiddleware.isLoggedIn, items.delete);
 
   // Delete all Items
-  router.delete("/", items.deleteAll);
+  router.delete("/", authMiddleware.isLoggedIn, items.deleteAll);
 
   app.use("/api/items", router);
 
