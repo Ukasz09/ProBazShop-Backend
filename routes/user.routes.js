@@ -13,6 +13,6 @@ module.exports = (app) => {
 
   app.use("/api/users", router);
 
-  app.get("/api/history/:email", users.historyid);
-  app.post("/api/order", users.orderItems);
+  app.get("/api/history/:email", authMiddleware.isLoggedIn, users.historyid);
+  app.post("/api/order", authMiddleware.isLoggedIn, users.orderItems);
 };
