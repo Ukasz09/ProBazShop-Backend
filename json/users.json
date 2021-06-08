@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "60b6575c099d68affdfc3137"
+  },
+  "history": [
+    {
+      "id": "5fb807ef8a521687ef6108cb",
+      "name": "Long Fit T-shirt",
+      "description": "Long, crew-neck T-shirt in soft jersey with a rounded hem.",
+      "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F83%2Fe1%2F83e1bf22cd2015bc509296ef1e2d5a4d29b70b7a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B4%5D&call=url[file:/product/main]",
+      "size": "S",
+      "color": "#212121",
+      "pricePerItem": 9.99,
+      "orderedQty": 1,
+      "orderDate": "2021-06-01T16:38:23.435Z"
+    },
+    {
+      "id": "5fb80fae8a521687ef61095d",
+      "name": "Puff-sleeved Satin Dress",
+      "description": "Short, fitted dress in satin. Stand-up collar, hook-and-eye fasteners at back of neck, and zipper at back. Seam at waist and gently flared skirt. Short, gathered puff sleeves with a slit. Sleeves lined in jersey made from recycled polyester.",
+      "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F90%2F22%2F90222227f246ab5c26c010cd467118981a05df13.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_dresses_party%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "size": "L",
+      "color": "#F44336",
+      "pricePerItem": 29.99,
+      "orderedQty": 2,
+      "orderDate": "2021-06-01T16:38:50.155Z"
+    },
+    {
+      "id": "5fb80b828a521687ef610914",
+      "name": "Short Puffer Jacket",
+      "description": "Kangol x H&M. Short, padded jacket with a padded hood. Stand-up collar, contrasting zipper at front, and discreet front pockets with concealed zipper. Kangol logo above hem and narrow elastic at cuffs and hem. Lining in recycled polyester.",
+      "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F6c%2F21%2F6c211df2f51c8a01a2ef4693dfea97840d2e14c0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jacketscoats_jackets%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "size": "XL",
+      "color": "#FFC107",
+      "pricePerItem": 49.99,
+      "orderedQty": 1,
+      "orderDate": "2021-06-01T16:38:50.155Z"
+    },
+    {
+      "id": "5fb8099f8a521687ef6108ee",
+      "name": "Flounced Skirt",
+      "description": "Short, A-line skirt with a zipper at back and flounce at hem.",
+      "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F13%2Fcc%2F13ccb21cf66bf2a7647d134eb3704fac2f62e951.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_skirts_a-line%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "size": "M",
+      "color": "#FF4081",
+      "pricePerItem": 24.99,
+      "orderedQty": 1,
+      "orderDate": "2021-06-01T16:42:32.900Z"
+    },
+    {
+      "id": "5fb811e28a521687ef61098f",
+      "name": "Wide-cut Shorts",
+      "description": "Shorts in airy, woven viscose fabric. High waist, wide elasticized waistband, and short, wide legs.",
+      "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc4%2F3d%2Fc43dfe6dba284581c5d354b7963f759569c3e819.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "size": "XS",
+      "color": "#212121",
+      "pricePerItem": 12.99,
+      "orderedQty": 1,
+      "orderDate": "2021-06-02T13:17:50.657Z"
+    },
+    {
+      "id": "5fb811e28a521687ef61098e",
+      "name": "Shorts",
+      "description": "Shorts in woven fabric with decorative, shiny buttons at front. High waist, shaping darts at back, and concealed side zipper with button at top. Rounded hems.",
+      "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8c%2F73%2F8c731c4add971a27dc379769e8a6c9f1ed848754.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_shorts_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "size": "XL",
+      "color": "#212121",
+      "pricePerItem": 29.99,
+      "orderedQty": 1,
+      "orderDate": "2021-06-02T13:17:50.657Z"
+    },
+    {
+      "id": "5fb807ef8a521687ef6108ca",
+      "name": "Cotton Jersey Henley Shirt",
+      "description": "Henley shirt in cotton jersey with a button placket and long sleeves with roll-up tab and button.",
+      "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F28%2Fdf%2F28df32fee02140570a737f69de458c337f6f594c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_longsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "size": "XS",
+      "color": "#FFFFFF",
+      "pricePerItem": 9.99,
+      "orderedQty": 1,
+      "orderDate": "2021-06-02T13:22:56.022Z"
+    },
+    {
+      "id": "5fb8099f8a521687ef6108ed",
+      "name": "Denim Pencil Skirt",
+      "description": "5-pocket skirt in washed, stretch cotton denim. Regular waist, zip fly with button, slit at front, and raw-edge hem. Cotton content is partly recycled.",
+      "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5e%2Fd9%2F5ed9924b7c74db478a30f08cc3b2c5f3d1c470d9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "size": "XS",
+      "color": "#2196F3",
+      "pricePerItem": 29.99,
+      "orderedQty": 1,
+      "orderDate": "2021-06-02T14:59:18.748Z"
+    },
+    {
+      "id": "5fb8099f8a521687ef6108e8",
+      "name": "A-line Skirt",
+      "description": "Short, A-line skirt with a high waist and buttons at front.",
+      "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F04%2Fbb%2F04bb8b82b7acbab7334bbf4b2f4611ff5cfd9f1b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_skirts_shortskirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "size": "S",
+      "color": "#795548",
+      "pricePerItem": 24.99,
+      "orderedQty": 3,
+      "orderDate": "2021-06-02T15:15:04.811Z"
+    }
+  ],
+  "facebookId": "1837594233068836",
+  "email": "gajerski.lukasz@gmail.com",
+  "name": "Łukasz",
+  "surname": "Gajerski",
+  "type": "CLIENT"
+}]

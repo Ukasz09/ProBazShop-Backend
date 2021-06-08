@@ -1,0 +1,2588 @@
+[{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108ca"
+  },
+  "name": "Cotton Jersey Henley Shirt",
+  "description": "Henley shirt in cotton jersey with a button placket and long sleeves with roll-up tab and button.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F28%2Fdf%2F28df32fee02140570a737f69de458c337f6f594c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_longsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#FFFFFF",
+  "price": 9.99,
+  "starRating": 3.3,
+  "category": "shirts",
+  "availableQty": 15
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108cb"
+  },
+  "name": "Long Fit T-shirt",
+  "description": "Long, crew-neck T-shirt in soft jersey with a rounded hem.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F83%2Fe1%2F83e1bf22cd2015bc509296ef1e2d5a4d29b70b7a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B4%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 9.99,
+  "starRating": 4.2,
+  "category": "shirts",
+  "availableQty": 17
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108cc"
+  },
+  "name": "Regular Fit Crew-neck T-shirt",
+  "description": "Crew-neck T-shirt in soft cotton jersey.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd8%2F12%2Fd812412329a628300624e1661969be84286fe637.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 6.99,
+  "starRating": 3.9,
+  "category": "shirts",
+  "availableQty": 20
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108cd"
+  },
+  "name": "3-pack Regular Fit T-shirts",
+  "description": "Crew-neck T-shirts in organic cotton jersey.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7d%2Fd1%2F7dd18fcb273e946daa1eb8321d2e35292cf9ed5f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#FFFFFF",
+  "price": 24.99,
+  "starRating": 4.3,
+  "category": "shirts",
+  "availableQty": 21
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108ce"
+  },
+  "name": "Long-sleeved Regular Ft Shirt",
+  "description": "Long-sleeved shirt in soft cotton jersey.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa3%2F42%2Fa342ac4ae87cdfd3d3f350e66fa9f2cb8aa67247.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_longsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 9.99,
+  "starRating": 4.7,
+  "category": "shirts",
+  "availableQty": 16
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108cf"
+  },
+  "name": "Premium Cotton T-shirt",
+  "description": "Crew-neck T-shirt in premium cotton jersey.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7f%2Fa0%2F7fa05cd6a253cbb34ddfeb9f50ab8996b52147f0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#FFFFFF",
+  "price": 17.99,
+  "starRating": 4.2,
+  "category": "shirts",
+  "availableQty": 5
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108d0"
+  },
+  "name": "Raw-edge T-shirt",
+  "description": "T-shirt in soft cotton slub jersey. Slightly wider neckline, seam at center back, and slightly longer, rounded back section. Raw, rolled edges at neckline and cuffs.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F15%2Fb7%2F15b7d288c9baba5811c0041d7a65ed90d7a56b7d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#FFFFFF",
+  "price": 12.99,
+  "starRating": 5.1,
+  "category": "shirts",
+  "availableQty": 9
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108d1"
+  },
+  "name": "5-pack Slim Fit T-shirts",
+  "description": "Crew-neck T-shirts in soft cotton jersey.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbf%2F77%2Fbf774f156ffcf247cf7113f48a5b8af7274599e3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#FFFFFF",
+  "price": 34.99,
+  "starRating": 4.7,
+  "category": "shirts",
+  "availableQty": 14
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108d2"
+  },
+  "name": "Slub Jersey T-shirt",
+  "description": "T-shirt in slub cotton jersey with sewn cuffs on sleeves. Slightly longer, rounded back section.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb2%2Fb5%2Fb2b5a23f1a4065f118a43dbb2871a592fec7cec8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 12.99,
+  "starRating": 4.6,
+  "category": "shirts",
+  "availableQty": 22
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108d3"
+  },
+  "name": "Slim Fit V-neck T-shirt",
+  "description": "V-neck T-shirt in soft cotton jersey.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F00%2F2c%2F002ca3246e163cdfc5da0689ab0b7e6ca7f2767e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_bestbasics%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#FFFFFF",
+  "price": 9.99,
+  "starRating": 3,
+  "category": "shirts",
+  "availableQty": 24
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108d4"
+  },
+  "name": "Slim Fit Polo Shirt",
+  "description": "Short-sleeved polo shirt in soft jersey with a collar and button placket.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5e%2F94%2F5e94fbc34590a284a55cd25bb298b6ad9fbb0491.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BMEN_TSHIRTSTANKS_POLO%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#2196F3",
+  "price": 12.99,
+  "starRating": 4.9,
+  "category": "shirts",
+  "availableQty": 6
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108d5"
+  },
+  "name": "Slim Fit Round-neck T-shirt",
+  "description": "Crew-neck T-shirt in soft jersey.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff5%2Fc4%2Ff5c4939114fcc731acfada4ebb68f1da42cad909.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 9.99,
+  "starRating": 3.7,
+  "category": "shirts",
+  "availableQty": 10
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108d6"
+  },
+  "name": "COOLMAX® T-shirt",
+  "description": "Crew-neck T-shirt in a soft cotton blend made from COOLMAX® functional fabric – a unique, soft, comfortable, and fast-drying polyester fiber to efficiently wick moisture while regulating temperature.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff8%2F74%2Ff874865e2aaeb15ef4a89f74fedc455189887816.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 12.99,
+  "starRating": 4.6,
+  "category": "shirts",
+  "availableQty": 21
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108d7"
+  },
+  "name": "T-shirt with Panels",
+  "description": "T-shirt in soft cotton fabric with contrasting panels along shoulders and sleeves.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fef%2Fa9%2Fefa9149e87932d44e46fd8dc6cfd0a264a0a5da6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_all%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 12.99,
+  "starRating": 3.4,
+  "category": "shirts",
+  "availableQty": 29
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108d8"
+  },
+  "name": "Cotton Polo Shirt",
+  "description": "Polo shirt in cotton piqué. Ribbed collar, button placket, and short sleeves with ribbed cuffs. Slits at sides.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc8%2F44%2Fc84465c5b88501489838d78ae5ea517b296f3b4f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#2196F3",
+  "price": 12.99,
+  "starRating": 4.6,
+  "category": "shirts",
+  "availableQty": 16
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108d9"
+  },
+  "name": "Slim Fit Turtleneck Shirt",
+  "description": "Long-sleeved turtleneck shirt in soft jersey made from a cotton blend. Slim fit.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbf%2Fe3%2Fbfe367a9a40e842d0561fe724460d0429a2e9fa5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_all%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 14.99,
+  "starRating": 3.8,
+  "category": "shirts",
+  "availableQty": 29
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108da"
+  },
+  "name": "Slim Fit Jersey Shirt",
+  "description": "Crew-neck shirt in soft, cotton-blend jersey with long sleeves.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F01%2Fdc%2F01dcd24a57db25672357a3e3728b82f4f673e352.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_longsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 12.99,
+  "starRating": 4.4,
+  "category": "shirts",
+  "availableQty": 26
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108db"
+  },
+  "name": "2-pack Slim Fit Henley Shirts",
+  "description": "Long-sleeved henley shirts in soft cotton jersey.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F10%2F48%2F1048442de7913336b62f49e230782469d974daa0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_longsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 4.9,
+  "category": "shirts",
+  "availableQty": 12
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108dc"
+  },
+  "name": "Muscle Fit Mock Turtleneck",
+  "description": "Long-sleeved shirt in cotton jersey with a mock turtleneck. Muscle Fit – designed to showcase the body’s physique. Narrow shoulders and tapered sleeves for a flattering silhouette.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbe%2F42%2Fbe429e644e8534ed9b9106995d0263bf912f1bc7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 17.99,
+  "starRating": 5,
+  "category": "shirts",
+  "availableQty": 6
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108dd"
+  },
+  "name": "Cotton T-shirt",
+  "description": "T-shirt in soft cotton jersey with sewn cuffs on sleeves.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fae%2F83%2Fae83887055e076064d41e59918602478e3205d3e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 5.99,
+  "starRating": 4.1,
+  "category": "shirts",
+  "availableQty": 14
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108de"
+  },
+  "name": "Long-sleeved Shirt Long Fit",
+  "description": "Long, straight-cut shirt in soft cotton jersey. Long sleeves, ribbing at neckline, and rounded hem. Relaxed fit.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F90%2F7c%2F907cf92f8fc07e79bb6f69165c1666b52ca3741e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_longsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 12.99,
+  "starRating": 3.5,
+  "category": "shirts",
+  "availableQty": 20
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108df"
+  },
+  "name": "3-pack Slim Fit T-shirts",
+  "description": "Crew-neck T-shirts in soft jersey.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F49%2Ffe%2F49fea497f191b188c05f6ba1fd84477fbb7c8830.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 3.9,
+  "category": "shirts",
+  "availableQty": 15
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108e0"
+  },
+  "name": "2-pack Regular Fit Tank Tops",
+  "description": "Tank tops in stretch cotton jersey. Regular Fit.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fef%2F08%2Fef085c04aaa1a67d584ff548e54a7e39645bfe4c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_tanks%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 12.99,
+  "starRating": 4.3,
+  "category": "shirts",
+  "availableQty": 11
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108e1"
+  },
+  "name": "Muscle Fit Polo Shirt",
+  "description": "Long-sleeved polo shirt in cotton piqué. Ribbed collar and two buttons at top. Muscle Fit – designed to showcase the body’s natural physique. Narrow shoulders and tapered sleeves for a flattering silhouette.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Feb%2F48%2Feb4898bd7edd235a5348273bd3f77c73aa7011a7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_longsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 19.99,
+  "starRating": 3.8,
+  "category": "shirts",
+  "availableQty": 15
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108e2"
+  },
+  "name": "Muscle Fit Tank Top",
+  "description": "Sports tank top in fast-drying, functional fabric with a narrow racer back. Muscle Fit - designed to showcase the body’s physique.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa2%2Fe7%2Fa2e77cdfcd255938ecc17321cda3ff4c0dff8e2f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 12.99,
+  "starRating": 4.9,
+  "category": "shirts",
+  "availableQty": 11
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108e3"
+  },
+  "name": "Regular Fit V-neck T-shirt",
+  "description": "V-neck T-shirt in soft cotton jersey.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc6%2F39%2Fc6399adf4025ee5b9cc0eeee724993ec0eeae707.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 6.99,
+  "starRating": 4.5,
+  "category": "shirts",
+  "availableQty": 27
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108e4"
+  },
+  "name": "Printed Graphic T-shirt",
+  "description": "Straight-cut T-shirt in soft cotton jersey with a printed design. Narrow ribbing at neckline.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5e%2F0f%2F5e0f4c3019487d6390b891a948b035208e7e17bd.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 17.99,
+  "starRating": 3.5,
+  "category": "shirts",
+  "availableQty": 16
+},{
+  "_id": {
+    "$oid": "5fb807ef8a521687ef6108e5"
+  },
+  "name": "3-pack Shirts Slim fit",
+  "description": "Long-sleeved jersey shirts in a soft cotton blend. Slim fit.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0d%2Faf%2F0dafaeda9200c04da99a345d957ee14903552f1b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_bestbasics%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 34.99,
+  "starRating": 3.9,
+  "category": "shirts",
+  "availableQty": 5
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108e6"
+  },
+  "name": "Rib-knit Skirt",
+  "description": "Fitted, calf-length skirt in soft, rib-knit fabric with wool content. High waist, covered, elasticized waistband, and a slit at one side. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa1%2F5d%2Fa15da3c8f0737ccced26da3b35f3928a316edeec.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 3.3,
+  "category": "skirts",
+  "availableQty": 15
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108e7"
+  },
+  "name": "A-line Denim Skirt",
+  "description": "A-line, calf-length skirt in washed cotton denim. Zip fly with button and diagonal side pockets. Cotton content is partly recycled.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5d%2Fca%2F5dca3dbcc18600dfaba63986bb8ffcf6f450a96e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#2196F3",
+  "price": 29.99,
+  "starRating": 4.2,
+  "category": "skirts",
+  "availableQty": 17
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108e8"
+  },
+  "name": "A-line Skirt",
+  "description": "Short, A-line skirt with a high waist and buttons at front.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F04%2Fbb%2F04bb8b82b7acbab7334bbf4b2f4611ff5cfd9f1b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_skirts_shortskirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#795548",
+  "price": 24.99,
+  "starRating": 3.9,
+  "category": "skirts",
+  "availableQty": 20
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108e9"
+  },
+  "name": "Faux Leather Skirt",
+  "description": "Short skirt in faux leather with a high waist. Concealed zipper at back. Lined. Polyurethane content is water-based and free from DMF.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F20%2Fa3%2F20a3ab37e64c94d008c885befeb3df0a79d987bc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_skirts_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#4CAF50",
+  "price": 19.99,
+  "starRating": 4.3,
+  "category": "skirts",
+  "availableQty": 21
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108ea"
+  },
+  "name": "Shaping Denim Pencil Skirt",
+  "description": "5-pocket skirt in washed denim with technical stretch to hold and shape tummy, thighs, and seat, while jeans retain their shape. High waist, zip fly with button, and a slit at back.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa4%2F0b%2Fa40b1f2fa7064bda3fe7f10a51423c01ac14cf3e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_skirts_pencil%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#2196F3",
+  "price": 39.99,
+  "starRating": 4.7,
+  "category": "skirts",
+  "availableQty": 16
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108eb"
+  },
+  "name": "Bouclé Skirt",
+  "description": "Short, gently fitted skirt in woven, textured bouclé. High waist with decorative metal buttons at front and concealed zipper at back. Diagonal side pockets. Lining in recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd0%2F1a%2Fd01a255253366d48de9538ed5e3c71783b4a92e4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 39.99,
+  "starRating": 4.2,
+  "category": "skirts",
+  "availableQty": 5
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108ec"
+  },
+  "name": "Pleated Skirt",
+  "description": "Flared, pleated, calf-length skirt in airy polyester. High waist, concealed side-seam zipper, and a soft belt with grommets and a metal buckle.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa8%2F53%2Fa853c1accaa062c32043a4fbc54686cf9a343687.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_skirts_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 29.99,
+  "starRating": 5.1,
+  "category": "skirts",
+  "availableQty": 9
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108ed"
+  },
+  "name": "Denim Pencil Skirt",
+  "description": "5-pocket skirt in washed, stretch cotton denim. Regular waist, zip fly with button, slit at front, and raw-edge hem. Cotton content is partly recycled.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5e%2Fd9%2F5ed9924b7c74db478a30f08cc3b2c5f3d1c470d9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#2196F3",
+  "price": 29.99,
+  "starRating": 4.7,
+  "category": "skirts",
+  "availableQty": 14
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108ee"
+  },
+  "name": "Flounced Skirt",
+  "description": "Short, A-line skirt with a zipper at back and flounce at hem.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F13%2Fcc%2F13ccb21cf66bf2a7647d134eb3704fac2f62e951.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_skirts_a-line%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#FF4081",
+  "price": 24.99,
+  "starRating": 4.6,
+  "category": "skirts",
+  "availableQty": 22
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108ef"
+  },
+  "name": "Calf-length Skirt",
+  "description": "Calf-length skirt in woven, cotton-blend fabric with a slight sheen. High paper bag waist with covered elasticized waistband, ruffle trim, and pleats for added volume. Discreet side pockets. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2f%2Ff0%2F2ff0c9bc5d757fb39a8c504033fe9d55e63352a8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 34.99,
+  "starRating": 3,
+  "category": "skirts",
+  "availableQty": 24
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108f0"
+  },
+  "name": "Calf-length Mesh Skirt",
+  "description": "Calf-length skirt in flock-print mesh. Gathered seam at hips and concealed side zipper with hook-and-eye fastener. Lined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbb%2Fff%2Fbbfffd2bf8d1a5f63e32c46d7ccbb55c75052089.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 29.99,
+  "starRating": 4.9,
+  "category": "skirts",
+  "availableQty": 6
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108f1"
+  },
+  "name": "Faux Leather Pencil Skirt",
+  "description": "Knee-length skirt in faux leather. High waist, concealed, elasticized waistband, and concealed zipper at back. Laser-cut hem. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F96%2F43%2F964399015dc2dd2c41ee0ec38d31a0b10c649a48.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 29.99,
+  "starRating": 3.7,
+  "category": "skirts",
+  "availableQty": 10
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108f2"
+  },
+  "name": "High-split Skirt",
+  "description": "Calf-length skirt in airy, woven viscose fabric. High waist with concealed zipper. Decorative covered buttons and a high split at one side. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F48%2Fc1%2F48c1ae311edca2d4cf69a5a841a5dbe9ccba7a22.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_skirts_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 4.6,
+  "category": "skirts",
+  "availableQty": 21
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108f3"
+  },
+  "name": "Denim Slit Skirt",
+  "description": "Calf-length, 5-pocket skirt in cotton denim. High waist, zip fly with button, and slit at front. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fea%2Fb0%2Feab051af91c48b7961ba43c81252ac6173a69dee.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#2196F3",
+  "price": 34.99,
+  "starRating": 3.4,
+  "category": "skirts",
+  "availableQty": 29
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108f4"
+  },
+  "name": "Knee-length Skirt",
+  "description": "Knee-length skirt in woven fabric with a slight sheen. High waist, concealed zipper at back of waistband, and pleats at front and back. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fdc%2F91%2Fdc914aba73361f0e0442656cb62306f296f73886.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 39.99,
+  "starRating": 4.6,
+  "category": "skirts",
+  "availableQty": 16
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108f5"
+  },
+  "name": "Quilted Skirt",
+  "description": "Short skirt in quilted faux leather with a high waist. Concealed zipper at one side. Lined in taffeta made from recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fde%2Fdd%2Fdedde33a2c69ebad2d26f318c160418b63514dac.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_skirts_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#FFFFFF",
+  "price": 34.99,
+  "starRating": 3.8,
+  "category": "skirts",
+  "availableQty": 29
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108f6"
+  },
+  "name": "Short Jersey Skirt",
+  "description": "Short, fitted skirt in jersey with an elasticized waistband.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc0%2Fb5%2Fc0b5407d379948ea2bb3e7f5f7039ecdc995a33e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_skirts_shortskirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 9.99,
+  "starRating": 4.4,
+  "category": "skirts",
+  "availableQty": 26
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108f7"
+  },
+  "name": "Lyocell Skirt",
+  "description": "Calf-length skirt in soft Tencel™ lyocell denim. High waist, covered elastic at back of waistband, and buttons at front. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F93%2F65%2F93656519d189e801389ea32747e9fcfacff7aed3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#2196F3",
+  "price": 34.99,
+  "starRating": 4.9,
+  "category": "skirts",
+  "availableQty": 12
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108f8"
+  },
+  "name": "Pencil Skirt",
+  "description": "Short, fitted pencil skirt in woven fabric. High waist with narrow, removable belt and concealed zipper at back. Lined. Polyester content of outer fabric is partly recycled. Polyester content of lining is recycled.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb7%2Ff0%2Fb7f036a8b8f6ddca5a5c7790fe72642b8a496c1e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 29.99,
+  "starRating": 5,
+  "category": "skirts",
+  "availableQty": 6
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108f9"
+  },
+  "name": "Short Skirt with Belt",
+  "description": "Short skirt with a high waist and removable, adjustable belt at waist. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Feb%2F8a%2Feb8a6d0ff4a5b4f7215713d4039b8ce64a3141b8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_skirts_shortskirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 4.1,
+  "category": "skirts",
+  "availableQty": 14
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108fa"
+  },
+  "name": "Pleated Jersey Skirt",
+  "description": "Calf-length skirt in airy jersey with a lightly pleated texture. High waist, concealed elasticized waistband, and a fitted style that widens at knees. Raw-edge hem.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0e%2F75%2F0e755528816a242b95aea86e9061b49c7dd4125a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 39.99,
+  "starRating": 3.5,
+  "category": "skirts",
+  "availableQty": 20
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108fb"
+  },
+  "name": "Wrap-front Skirt",
+  "description": "Short, fitted skirt in woven fabric. High waist, concealed zipper at one side, and a sewn wrapover with pleats at top. Lining in recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F9e%2F8d%2F9e8d1ff5c816bb5a8ca7c2b787fc3407f2729481.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 34.99,
+  "starRating": 3.9,
+  "category": "skirts",
+  "availableQty": 15
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108fc"
+  },
+  "name": "Patterned Pencil Skirt",
+  "description": "Fitted, knee-length skirt in thick, patterned jersey. High waist, double-layered waistband, and concealed zipper at back. Slit at back of hem. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fcc%2Fce%2Fccce8f9b48cfc200e4a2a47d423b439fa0051dae.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_skirts_shortskirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 4.3,
+  "category": "skirts",
+  "availableQty": 11
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108fd"
+  },
+  "name": "Short Sweatshirt Skirt",
+  "description": "Short skirt in sweatshirt fabric with a high waist. Waistband with covered elastic and a drawstring. Side-seam pockets, raw-edge hem, and soft, brushed inside. Polyester content is recycled.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F9f%2Fef%2F9fef4ea97df55804ec9bc1846d25314c6884a244.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 14.99,
+  "starRating": 3.8,
+  "category": "skirts",
+  "availableQty": 15
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108fe"
+  },
+  "name": "Lyocell-blend Paper-bag Skirt",
+  "description": "Calf-length skirt in a woven viscose and Tencel™ lyocell blend with linen content. High, ruffle-trimmed paper-bag waist, covered, elasticized waistband, and removable tie belt. Pleats at front and back for added volume. Side-seam pockets. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7b%2F04%2F7b04104b4ff7af3fb8c4e58d72cb3b80938434c5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 34.99,
+  "starRating": 4.9,
+  "category": "skirts",
+  "availableQty": 11
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef6108ff"
+  },
+  "name": "Embrace Denim Skirt",
+  "description": "Short, 5-pocket skirt in washed, stretch denim with a soft finish. High waist and zip fly. Embrace – denim with smart stretch function that molds to body for a comfortable, flattering silhouette.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc8%2Fd8%2Fc8d8d7a184419f1aa56c0fb563dda6156ca24f4d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#2196F3",
+  "price": 34.99,
+  "starRating": 4.5,
+  "category": "skirts",
+  "availableQty": 27
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef610900"
+  },
+  "name": "Wool-blend Skirt",
+  "description": "Studio Collection. Long, straight-cut skirt in wool-blend stretch twill with a high waist. Concealed hook-and-eye fasteners at back with concealed safety button and zipper. Twisted side seams and high slit at front. Studio Collection AW20 is a tribute to the rebellious, fearless individual who dares to break the mold – a person who plays between the extremes and finds their style in the androgynous, eclectic, and creative.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7d%2F7e%2F7d7e80434c4569da77d6e93c14ffa9def695c838.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 129,
+  "starRating": 3.5,
+  "category": "skirts",
+  "availableQty": 16
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef610901"
+  },
+  "name": "Textured-weave Skirt",
+  "description": "Calf-length skirt in woven, textured fabric with a high waist. Covered, elasticized waistband, seam at thighs, and flared lower section. Lined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff6%2F40%2Ff640e34deb015563e5f9de499bbbbe4fc9ba4115.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 34.99,
+  "starRating": 3.9,
+  "category": "skirts",
+  "availableQty": 5
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef610902"
+  },
+  "name": "H&M+ Skater Skirt",
+  "description": "Short skater skirt in thick jersey with an elasticized waistband. Visible zipper at back. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F70%2Fca%2F70caa6f9a2dc762ae559a46e87b1f4c4215efc90.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 17.99,
+  "starRating": 3.8,
+  "category": "skirts",
+  "availableQty": 8
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef610903"
+  },
+  "name": "Cotton-blend Lace Skirt",
+  "description": "Flared, calf-length skirt in soft, cotton-blend lace. High waist and concealed zipper at one side. Short liner skirt.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2d%2F7b%2F2d7b321becd9697ee243967bcb959cd005dc144c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#4CAF50",
+  "price": 79.99,
+  "starRating": 3.9,
+  "category": "skirts",
+  "availableQty": 18
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef610904"
+  },
+  "name": "Short Denim Skirt",
+  "description": "Short, 5-pocket skirt in washed stretch denim. Zip fly and raw-edge hem.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2b%2Fbd%2F2bbd6adbae16d36604d739ba304ee8e36f0d3576.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_skirts_shortskirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 14.99,
+  "starRating": 3.4,
+  "category": "skirts",
+  "availableQty": 7
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef610905"
+  },
+  "name": "Jersey Skirt with Flounce",
+  "description": "Short, flared skirt in thick jersey. High waist, double-layered waistband, and concealed zipper at back. Seam at hem with a flounce. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe6%2Ff5%2Fe6f5a960206c1d5d7719504f72904e2a22a0b1d8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_skirts_shortskirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 4.2,
+  "category": "skirts",
+  "availableQty": 25
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef610906"
+  },
+  "name": "Button-front Skirt",
+  "description": "Calf-length skirt in airy, woven viscose fabric with a high waist. Buttons at front. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff2%2Fd3%2Ff2d397ee04085e31928ad969de610fdbe98648ba.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_skirts_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 3.3,
+  "category": "skirts",
+  "availableQty": 17
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef610907"
+  },
+  "name": "Denim Paper-bag Skirt",
+  "description": "Short, 5-pocket skirt in washed denim. High paper-bag waist, belt with metal buckle, and zip fly with button.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Faf%2Fa5%2Fafa55ccf0c03035f2d17499ea3b0717189eae3a6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#2196F3",
+  "price": 29.99,
+  "starRating": 3.8,
+  "category": "skirts",
+  "availableQty": 11
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef610908"
+  },
+  "name": "Paper-bag Skirt",
+  "description": "Short skirt in faux suede. High, elasticized, paper-bag waist and side-seam pockets. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F14%2F93%2F1493a43dfa90b67ad557de6bb36e01ba57fd5ac3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_skirts_shortskirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 4.1,
+  "category": "skirts",
+  "availableQty": 21
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef610909"
+  },
+  "name": "Belted Pleated Skirt",
+  "description": "Short, pleated skirt in woven, crêped fabric. High waist, covered elastic at back of waist, and attached belt with round, covered buckle at front. Overlocked hem. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F22%2Ff2%2F22f27cf3b8dd994bd960de198a238fe141a7386d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#FF4081",
+  "price": 29.99,
+  "starRating": 4.9,
+  "category": "skirts",
+  "availableQty": 5
+},{
+  "_id": {
+    "$oid": "5fb8099f8a521687ef61090a"
+  },
+  "name": "Skater Skirt",
+  "description": "Short skater skirt in thick jersey with an elasticized waistband. Visible zip at back. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F23%2F7e%2F237e7680b2f713b360899f12304e5bbab241f7c4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_skirts_shortskirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 17.99,
+  "starRating": 3.7,
+  "category": "skirts",
+  "availableQty": 10
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef61090b"
+  },
+  "name": "Hooded Puffer Jacket",
+  "description": "Padded jacket in woven fabric. Lined hood, zipper and wind flap at front with snap fasteners, and side pockets. Gently rounded, slightly longer hem at back. Lining and fill in recycled polyester. Polyester content of outer layer is partly recycled.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc0%2Fc0%2Fc0c0814cff1176be858edc4e185d82f6732a6631.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 69.99,
+  "starRating": 3.3,
+  "category": "jackets",
+  "availableQty": 15
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef61090c"
+  },
+  "name": "Faux Fur-lined Jacket",
+  "description": "Straight-cut jacket with soft faux fur lining. Faux fur collar with adjustable tabs and metal buckles. Zipper at front, side pockets, and faux fur trim at cuffs and hem.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe3%2F3b%2Fe33b4ca4b3b30d8ca9467432adea9a1fcbb1bb42.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 69.99,
+  "starRating": 4.2,
+  "category": "jackets",
+  "availableQty": 17
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef61090d"
+  },
+  "name": "Boxy Puffer Jacket",
+  "description": "Boxy, padded jacket in woven fabric. Stand-up collar, zipper at front, and side pockets. Concealed elastic at cuffs and elasticized drawstring at hem. Lined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0f%2F5d%2F0f5d1ea17e2cf1fb2fd8bf117682bd3aced40e4e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 39.99,
+  "starRating": 3.9,
+  "category": "jackets",
+  "availableQty": 20
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef61090e"
+  },
+  "name": "Oversized Shirt Jacket",
+  "description": "Oversized shirt jacket in woven fabric with soft, brushed inside. Collar, buttons at front, and yoke at back. Chest pockets with flap and button, diagonal side pockets, gently dropped shoulders, and long sleeves with button at cuffs. Short slits at sides and slightly longer hem at back. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4e%2F4b%2F4e4baba8bd0daa70a099648d3e94bb2a60c822c6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jacketscoats_shirtjackets%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 49.99,
+  "starRating": 4.3,
+  "category": "jackets",
+  "availableQty": 21
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef61090f"
+  },
+  "name": "Stand-up-collar Puffer Jacket",
+  "description": "Quilted, padded jacket in woven fabric. Stand-up collar, zipper at front with wind flap and concealed snap fasteners, and side pockets. Elasticized cuffs and hem. Lining and padding made from recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Faa%2F14%2Faa14f8bfa704c0740d941362233eaf30463e33ee.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 49.99,
+  "starRating": 4.7,
+  "category": "jackets",
+  "availableQty": 16
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef610910"
+  },
+  "name": "Oversized Jacket",
+  "description": "Oversized padded jacket in woven fabric. High collar, zipper and wind flap at front with concealed snap fasteners, and diagonal side pockets. Dropped shoulders, long sleeves, and covered, elasticized cuffs with hook-loop fastener. Elasticized drawstring at hem. Lining in recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe5%2Fc3%2Fe5c36d348ed416963bee4099449af04ef99f88c2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#2196F3",
+  "price": 59.99,
+  "starRating": 4.2,
+  "category": "jackets",
+  "availableQty": 5
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef610911"
+  },
+  "name": "Faux Fur Jacket",
+  "description": "Jacket in soft faux fur with large, notched lapels, concealed snap fasteners at front, and discreet side-seam pockets. Lining in woven fabric made from recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F39%2Fa7%2F39a70ea4aa892927052306e53294dbc86065dc1e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jacketscoats_jackets%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 49.99,
+  "starRating": 5.1,
+  "category": "jackets",
+  "availableQty": 9
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef610912"
+  },
+  "name": "Padded Hooded Jacket",
+  "description": "Padded jacket in woven fabric. Hood with elastic drawstring and wide tab with snap fasteners. High collar, zipper at front with wind flap and hook-loop fastening, and elasticized drawstring at waist for adjustable fit. Handwarmer pockets with zipper, large patch pockets below waist with flap and hook-loop fastening, long, quilted sleeves, and tab at cuffs with hook-loop fastener. Lined in taffeta made from recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F85%2F89%2F85891944c3e60668025623f88dea5cf548cd7014.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#FFFFFF",
+  "price": 69.99,
+  "starRating": 4.7,
+  "category": "jackets",
+  "availableQty": 14
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef610913"
+  },
+  "name": "Belted Patent Puffer Jacket",
+  "description": "Padded jacket in faux patent leather with a removable tie belt at waist. Hood, high collar, and zipper at front. Welt front pockets and inner ribbing at cuffs. Lining in recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F64%2F8d%2F648dc01b3d14aa4f156dc0b1402e305cdc402779.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jacketscoats_jackets%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 59.99,
+  "starRating": 4.6,
+  "category": "jackets",
+  "availableQty": 22
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef610914"
+  },
+  "name": "Short Puffer Jacket",
+  "description": "Kangol x H&M. Short, padded jacket with a padded hood. Stand-up collar, contrasting zipper at front, and discreet front pockets with concealed zipper. Kangol logo above hem and narrow elastic at cuffs and hem. Lining in recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F6c%2F21%2F6c211df2f51c8a01a2ef4693dfea97840d2e14c0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jacketscoats_jackets%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#FFC107",
+  "price": 49.99,
+  "starRating": 3,
+  "category": "jackets",
+  "availableQty": 24
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef610915"
+  },
+  "name": "Hooded Faux Fur Jacket",
+  "description": "Short jacket in soft faux fur. Hood, zipper at front with ring pull, and diagonal side pockets. Covered elastic at cuffs and hem. Lining in recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe5%2F57%2Fe55767e3af3ddd908d79b8ec5781201c3a10168b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 49.99,
+  "starRating": 4.9,
+  "category": "jackets",
+  "availableQty": 6
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef610916"
+  },
+  "name": "Padded Hooded Outdoor Jacket",
+  "description": "Outdoor jacket in woven fabric with padded sections at front and back. Double-layer hood, stand up collar, and zipper at front with chin guard. Side pockets with zipper, long raglan sleeves with thumbholes, and thick jersey inserts at sides lined with thermal fleece. Longer and rounded hem at back. Partly lined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff1%2F03%2Ff1035a7ab0918bbe8ac90c61d4629f699808d66e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_sport_jackets%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 49.99,
+  "starRating": 3.7,
+  "category": "jackets",
+  "availableQty": 10
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef610917"
+  },
+  "name": "Denim Jacket",
+  "description": "Jacket in washed cotton denim. Collar, buttons at front, and yoke front and back. Chest pockets with flap and button, front pockets, and button at cuffs. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F59%2Fde%2F59de2f3276cd614b50c3417e8af8215de0da9586.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jacketscoats_denim%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 29.99,
+  "starRating": 4.6,
+  "category": "jackets",
+  "availableQty": 21
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef610918"
+  },
+  "name": "Faux Leather Anorak",
+  "description": "Anorak in faux leather with a drawstring hood. Half-zip, drawstring at waist, and kangaroo pocket. Dropped shoulders and long sleeves with covered elastic at cuffs. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2f%2F80%2F2f80d4d7a978261c8f3e0a874ebbaac99e0e1f01.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 69.99,
+  "starRating": 3.4,
+  "category": "jackets",
+  "availableQty": 29
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef610919"
+  },
+  "name": "Oversized Hooded Jacket",
+  "description": "Oversized, hooded sweatshirt jacket. Lined, drawstring hood and zipper at front. Dropped shoulders, long sleeves, and ribbing at cuffs and hem. Polyester content is partly recycled.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F44%2F03%2F4403cb01d8aea966d00059ac7057daa01371c5fa.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 29.99,
+  "starRating": 4.6,
+  "category": "jackets",
+  "availableQty": 16
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef61091a"
+  },
+  "name": "Wool-blend Shirt Jacket",
+  "description": "Long shirt jacket in a wool blend with a soft, brushed finish. Collar, buttons at front, and yoke at back with box pleat. Dropped shoulders, long sleeves, chest pockets with flap, and front pockets. Unlined. Wool content is recycled.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F6b%2F5e%2F6b5ed3959846f6e3c20076771a58223d8cc643dd.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jacketscoats_shirtjackets%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#4CAF50",
+  "price": 129,
+  "starRating": 3.8,
+  "category": "jackets",
+  "availableQty": 29
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef61091b"
+  },
+  "name": "Water-repellent Jacket",
+  "description": "Quilted jacket in windproof, water-repellent, functional fabric to protect from wind and keep you dry during light showers. Stand-up collar, zipper at front, and side pockets with concealed zipper to help keep your valuables safe. Outer fabric and padding made from recycled polyester. THERMOLITE® T-Down EcoMade fill, providing lightweight, down-like insulation with superior warmth and breathability. Fill made entirely from recycled PET fiber.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fec%2F67%2Fec67afdf9a6d512ca80f5d25cc88bd59a6c6253b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 59.99,
+  "starRating": 4.4,
+  "category": "jackets",
+  "availableQty": 26
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef61091c"
+  },
+  "name": "Quilted Jacket",
+  "description": "Lightly padded, quilted, straight-cut jacket in a woven cotton blend. Ribbed collar, zipper at front, and welt side pockets. Long raglan sleeves with inner ribbing at cuffs. Rounded hem with slits at sides. Slightly longer at back. Lining and padding in recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F76%2Ff1%2F76f101785e8bb22eb3fbf5e8a5d0cb9040a899d8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 49.99,
+  "starRating": 4.9,
+  "category": "jackets",
+  "availableQty": 12
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef61091d"
+  },
+  "name": "Hooded Jacket",
+  "description": "Jacket in soft, woven fabric. Hood with detachable faux fur trim, concealed double-breasted snap fasteners at front, side-seam pockets, and removable tie belt at waist. Lining in woven fabric made from recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0a%2F2e%2F0a2eee3eb5d2b723539b4bf69ac8333c8b0a2110.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 69.99,
+  "starRating": 5,
+  "category": "jackets",
+  "availableQty": 6
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef61091e"
+  },
+  "name": "Short Trenchcoat",
+  "description": "Short, double-breasted trenchcoat in lightweight, woven fabric. Notched lapels, shoulder tabs with button, and dropped shoulders. Front pockets, long, wide sleeves with tab and button at cuffs, and a removable tie belt. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff5%2Fd5%2Ff5d5fe252864b8c7c080baa057d28cf551d6bdf6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jacketscoats_jackets%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 39.99,
+  "starRating": 4.1,
+  "category": "jackets",
+  "availableQty": 14
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef61091f"
+  },
+  "name": "Faux Leather Jacket",
+  "description": "Jacket in grained faux leather. Collar, concealed snap fasteners at front, and welt front pockets. Wide, covered elastic at cuffs and hem. Lining in recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0f%2F1e%2F0f1e6d1d57cb1f498aacbd3563420f92581aa226.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 49.99,
+  "starRating": 3.5,
+  "category": "jackets",
+  "availableQty": 20
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef610920"
+  },
+  "name": "H&M+ Hooded Puffer Jacket",
+  "description": "Padded jacket in woven fabric with a faux fur-trimmed, padded hood. Zipper and wind flap at front with concealed snap fasteners, side pockets with zipper, and removable, elasticized belt at waist with a metal buckle. Concealed elastic at cuffs and hem. Lining and padding in recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3b%2F79%2F3b79530a65b56add61282807ad980ecc9e5d1b83.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 69.99,
+  "starRating": 3.9,
+  "category": "jackets",
+  "availableQty": 15
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef610921"
+  },
+  "name": "Textured-weave Jacket",
+  "description": "Straight-cut, relaxed-fit jacket in woven, textured fabric with frayed edges, large metal buttons at front, and gently dropped shoulders. Chest pockets and front pockets, all with metal buttons. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F94%2F14%2F9414ba490882a85c2e09c92a44fa5b13f8a00734.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jacketscoats_jackets%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 59.99,
+  "starRating": 4.3,
+  "category": "jackets",
+  "availableQty": 11
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef610922"
+  },
+  "name": "Lightweight Windbreaker",
+  "description": "Lightweight jacket in windproof functional fabric made from recycled polyamide. Hood with elastic drawstring, zipper front, and side pockets with concealed zipper. Elastic drawstring at cuffs and hem.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4b%2F2f%2F4b2f010eef79a80785c29316830b0766e8795ed3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 3.8,
+  "category": "jackets",
+  "availableQty": 15
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef610923"
+  },
+  "name": "Nylon Jacket",
+  "description": "Sporty, hooded jacket in nylon. High collar, zipper at front, dropped shoulders, and long sleeves with covered elastic and hook-loop tab at cuffs. Seams at front and back, decorative D-ring at front, and diagonal, concealed front pockets with zipper. Elasticized drawstring at hood and hem. Lining in recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F82%2Fcf%2F82cf4f352aba7c5c2780f4eae92c7702db0f9661.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 39.99,
+  "starRating": 4.9,
+  "category": "jackets",
+  "availableQty": 11
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef610924"
+  },
+  "name": "Fleece Outdoor Jacket",
+  "description": "Hooded jacket in soft fleece designed to be worn either as a jacket or as a thermal mid layer. Extra-long raglan sleeves for increased freedom of movement and minimal friction, and thumbholes at cuffs to help retain warmth outdoors. Zipper at front, chest pocket with zipper for safer storage of valuables, and rounded hem, slightly longer at back for improved fit when moving. Polyester content is partly recycled.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F71%2Fbd71397dc7e28561e548ff7157c31c8fe2843935.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 34.99,
+  "starRating": 4.5,
+  "category": "jackets",
+  "availableQty": 27
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef610925"
+  },
+  "name": "Down Jacket",
+  "description": "Jacket in woven fabric with fill of 80% down and 20% feathers. Stand-up collar with drawstring. Zipper at front, drawstring at waist, and discreet side-seam pockets. Dropped shoulders and covered elastic at cuffs. Lined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7b%2F51%2F7b512d298ba0b00c43e3d4a6e0cb515368cc052a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 149,
+  "starRating": 3.5,
+  "category": "jackets",
+  "availableQty": 16
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef610926"
+  },
+  "name": "Denim Shirt Jacket",
+  "description": "Straight-cut shirt jacket in washed cotton denim. Collar, snap fasteners at front, and chest pockets with flap and concealed snap fastener. Dropped shoulders, long sleeves, and cuffs with snap fasteners. Rounded hem. Cotton content is partly recycled.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F44%2Fda%2F44da242b2ecf8d9a898269df3afbf5a7fa649bb2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jacketscoats_shirtjackets%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#2196F3",
+  "price": 29.99,
+  "starRating": 3.9,
+  "category": "jackets",
+  "availableQty": 5
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef610927"
+  },
+  "name": "Hooded Quilted Jacket",
+  "description": "Fitted, lightly padded jacket in quilted woven fabric. Lightly padded hood with wide, soft faux fur trim. Zipper at front, diagonal front pockets with zipper, and long sleeves with inner ribbing at cuffs. Elasticized drawstring to define waist and narrow, concealed elastic at hem. Lined. Polyester content is partly recycled.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F60%2F25%2F60255f377db1af2bd93defd10f759367cb37d5fd.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 59.99,
+  "starRating": 3.8,
+  "category": "jackets",
+  "availableQty": 8
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef610928"
+  },
+  "name": "Twill Shirt Jacket",
+  "description": "Relaxed-fit shirt jacket in cotton twill. Dropped shoulders with tab and button, chest pockets with flap, and discreet side pockets. Buttons at front and at cuffs. Gently rounded hem. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fad%2Fba%2Fadba67a13503dd263106dbd3e8482c698efe0ad2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jacketscoats_shirtjackets%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#FFFFFF",
+  "price": 34.99,
+  "starRating": 3.9,
+  "category": "jackets",
+  "availableQty": 18
+},{
+  "_id": {
+    "$oid": "5fb80b828a521687ef610929"
+  },
+  "name": "Double-breasted Jacket",
+  "description": "Wide, double-breasted jacket in felted fabric with wool content. Notched lapels, front pockets with flap, dropped shoulders, and long sleeves. Lined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fca%2F53%2Fca535d5d7053e7ef730b3c401b8b2b5df1660ddb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 129,
+  "starRating": 3.4,
+  "category": "jackets",
+  "availableQty": 7
+},{
+  "_id": {
+    "$oid": "5fb80d198a521687ef61092a"
+  },
+  "name": "Tie Belt Coat",
+  "description": "Coat in felted fabric with a low stand-up collar. Concealed buttons at front, discreet side-seam pockets, and a removable tie belt at waist. Lining in recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F97%2Fee%2F97ee7ebd2b7520d3edd6729175af9bb1feef0bad.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 49.99,
+  "starRating": 3.3,
+  "category": "coats",
+  "availableQty": 15
+},{
+  "_id": {
+    "$oid": "5fb80d198a521687ef61092b"
+  },
+  "name": "Faux Shearling Coat",
+  "description": "Short, relaxed-fit coat in soft faux shearling. Large, notched lapels with buttonhole, concealed snap fasteners at front, and discreet side-seam pockets. Heavily dropped shoulders and wide, straight sleeves. Lining in recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5a%2Fe2%2F5ae24384ca40d60ac6bdf60d16aa78a90b743071.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#FFFFFF",
+  "price": 79.99,
+  "starRating": 4.2,
+  "category": "coats",
+  "availableQty": 17
+},{
+  "_id": {
+    "$oid": "5fb80d198a521687ef61092c"
+  },
+  "name": "Wool-blend Coat",
+  "description": "Calf-length coat in soft fabric with recycled wool content and a brushed finish. Notched lapels, buttons at front, and long sleeves with button at cuffs. Vent at back. Lined. Polyester content is partly recycled.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F25%2F40%2F25401f1285dee47e0b0704cc917cc160366f1b13.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 69.99,
+  "starRating": 3.9,
+  "category": "coats",
+  "availableQty": 20
+},{
+  "_id": {
+    "$oid": "5fb80d198a521687ef61092d"
+  },
+  "name": "Short Faux Shearling Coat",
+  "description": "Short, wide-cut coat in soft faux shearling. Notched lapels, buttons at front, long raglan sleeves, and large patch pockets. Lining in recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff3%2Feb%2Ff3eb8e200c1ffaaea7cd8cadc679105c58ee3721.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jacketscoats_coats%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 79.99,
+  "starRating": 4.3,
+  "category": "coats",
+  "availableQty": 21
+},{
+  "_id": {
+    "$oid": "5fb80d198a521687ef61092e"
+  },
+  "name": "Lightweight Hooded Down Coat",
+  "description": "Lightweight nylon coat with a fill of 70% recycled down and 30% recycled feathers. Front pockets and zip and wind flap at front with concealed snap fasteners. Lined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F67%2F8a%2F678aa477881f122f47741f353ea8a438ada3fc32.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jacketscoats_jackets%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 99,
+  "starRating": 4.7,
+  "category": "coats",
+  "availableQty": 16
+},{
+  "_id": {
+    "$oid": "5fb80d198a521687ef61092f"
+  },
+  "name": "Teddy Bear Coat",
+  "description": "Double-breasted coat in soft faux fur. Notched lapels, dropped shoulders, and diagonal welt pockets. Lining in recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8a%2F67%2F8a67a8239d4e2224c8a977750478a9693ccae392.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 69.99,
+  "starRating": 4.2,
+  "category": "coats",
+  "availableQty": 5
+},{
+  "_id": {
+    "$oid": "5fb80d198a521687ef610930"
+  },
+  "name": "Double-breasted Coat",
+  "description": "Knee-length, double-breasted coat in woven fabric. Notched lapels, front pockets with flap, and long sleeves with decorative buttons at cuffs. Vent at back. Lining in woven fabric made from recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ffa%2F5d%2Ffa5d24c75ed2bcee4f903d900fefc9f77c0b1529.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 69.99,
+  "starRating": 5.1,
+  "category": "coats",
+  "availableQty": 9
+},{
+  "_id": {
+    "$oid": "5fb80d198a521687ef610931"
+  },
+  "name": "Coat with Faux Fur Collar",
+  "description": "Short coat in soft, felted fabric. Shawl collar and a large, detachable collar in faux fur. Concealed snap fasteners at front, welt side pockets, and removable tie belt at waist. Vent at back. Lined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F20%2F99%2F20998ba54333e9e051477d516ea6f4810a5f7bd3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jacketscoats_coats%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 79.99,
+  "starRating": 4.7,
+  "category": "coats",
+  "availableQty": 14
+},{
+  "_id": {
+    "$oid": "5fb80d198a521687ef610932"
+  },
+  "name": "Single-breasted Coat",
+  "description": "Straight-cut coat in soft, woven fabric. Notched lapels, single-button fastening, and diagonal welt front pockets. Vent at back. Unlined. Polyester content is recycled.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F60%2Fcd%2F60cdce4e34d1d09c75512c158d06d30e1c07a7ed.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 59.99,
+  "starRating": 4.6,
+  "category": "coats",
+  "availableQty": 22
+},{
+  "_id": {
+    "$oid": "5fb80d198a521687ef610933"
+  },
+  "name": "Hooded Coat",
+  "description": "Calf-length, double-breasted coat in woven, wool-blend fabric with a lightly brushed finish. Large hood and lapels, removable tie belt at waist, and diagonal welt front pockets. High-cut vent at back. Lining in recycled polyester. Wool content is recycled.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F80%2Fa1%2F80a1d51e3492b683b438b2fdda987d9aeda602aa.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#F44336",
+  "price": 79.99,
+  "starRating": 3,
+  "category": "coats",
+  "availableQty": 24
+},{
+  "_id": {
+    "$oid": "5fb80d198a521687ef610934"
+  },
+  "name": "Boxy Twill Coat",
+  "description": "Short, boxy coat in twill. Collar, concealed buttons at front, and large patch front pockets. Pleat at back for added volume. Long, wide raglan sleeves with adjustable tab and buttons at cuffs. Lining in woven fabric made from recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F21%2Fff%2F21ff052b6613ee4ac98a93653aa9ba2f242e9dbd.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jacketscoats_coats%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 69.99,
+  "starRating": 4.9,
+  "category": "coats",
+  "availableQty": 6
+},{
+  "_id": {
+    "$oid": "5fb80d198a521687ef610935"
+  },
+  "name": "H&M+ Faux Fur-collared Coat",
+  "description": "Short coat in soft, felted fabric. Shawl collar and a large, detachable collar in faux fur. Concealed snap fasteners at front, side pockets, and removable tie belt at waist. Vent at back. Lined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fee%2Fb9%2Feeb9774ab4bef6193eb8dd035db085e8eb53fb0b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 79.99,
+  "starRating": 3.7,
+  "category": "coats",
+  "availableQty": 10
+},{
+  "_id": {
+    "$oid": "5fb80d198a521687ef610936"
+  },
+  "name": "Wool Coat",
+  "description": "Calf-length coat in Italian wool. Notched lapels, one button at front, and concealed front pockets. High-cut vent at back. Lined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F42%2F69%2F42691e4ddb297d5b8d4909f66c3bbdc105d3f076.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 149,
+  "starRating": 4.6,
+  "category": "coats",
+  "availableQty": 21
+},{
+  "_id": {
+    "$oid": "5fb80d198a521687ef610937"
+  },
+  "name": "Short Coat",
+  "description": "Short, double-breasted coat in woven fabric. Notched lapels and long sleeves with tab at cuffs. Handwarmer pockets, large patch front pockets, and a vent at back. Lining in recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fab%2F74%2Fab746fd3d79217248c71c4637e18a55e4b7971c6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jacketscoats_coats%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 59.99,
+  "starRating": 3.4,
+  "category": "coats",
+  "availableQty": 29
+},{
+  "_id": {
+    "$oid": "5fb80d198a521687ef610938"
+  },
+  "name": "Faux Fur-trimmed Coat",
+  "description": "Calf-length, double-breasted coat in woven fabric with cuffs and detachable collar in soft faux fur. Notched lapels, removable tie belt at waist, and discreet side pockets. Vent at back. Lined. Polyester content is partly recycled.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb6%2F2c%2Fb62cef17646875a34e8a13db423751acd70e3721.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 99,
+  "starRating": 4.6,
+  "category": "coats",
+  "availableQty": 16
+},{
+  "_id": {
+    "$oid": "5fb80d198a521687ef610939"
+  },
+  "name": "Calf-length Coat",
+  "description": "Calf-length coat in woven fabric. Notched lapels, concealed snap fasteners at front, and discreet side-seam pockets. Long, slightly wider raglan sleeves. Lined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff8%2Fa8%2Ff8a8fac52ab7669da664a9be912a9c603705b5a6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jacketscoats_coats%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 79.99,
+  "starRating": 3.8,
+  "category": "coats",
+  "availableQty": 29
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef61093a"
+  },
+  "name": "Faux Leather Pants",
+  "description": "5-pocket pants in faux leather. High waist, zip fly with button, and slim, ankle-length legs.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5f%2Fad%2F5fada0fa24aa40087032d73e218b280379588066.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 29.99,
+  "starRating": 3.3,
+  "category": "pants",
+  "availableQty": 15
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef61093b"
+  },
+  "name": "Creased Pants",
+  "description": "Dress pants in woven fabric. High waist, thick, wide waistband, and zipper with concealed hook-and-eye fasteners. Pleats at front and shaping darts at back. Diagonal side pockets, mock back pockets, and straight, ankle-length legs with creases.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F92%2Feb%2F92eb07f61880a4082e60d11aecf41248739550d8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 29.99,
+  "starRating": 4.2,
+  "category": "pants",
+  "availableQty": 17
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef61093c"
+  },
+  "name": "Ankle-length Slacks",
+  "description": "Slacks in woven stretch fabric. Regular waist, elastication at back of waistband, and mock welt pocket at back. Slim, ankle-length legs with creases.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7a%2F3c%2F7a3c96f09b8887c7ee286361982fe4cda6e12f0f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_chinosslacks%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 14.99,
+  "starRating": 3.9,
+  "category": "pants",
+  "availableQty": 20
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef61093d"
+  },
+  "name": "Leggings with Creases",
+  "description": "Leggings in stretch fabric. High waist and concealed, elasticized waistband. Stitched creases on legs and raw-edge hems.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd8%2F26%2Fd8265d4cf778defa52957ed80bee9fb66b02ccde.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_leggings%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 4.3,
+  "category": "pants",
+  "availableQty": 21
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef61093e"
+  },
+  "name": "Leggings",
+  "description": "Leggings in extra-thick jersey with an elasticized waistband.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F56%2Fe1%2F56e1b35c183434539ceebe8d37be15628b108fbe.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_leggings%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 12.99,
+  "starRating": 4.7,
+  "category": "pants",
+  "availableQty": 16
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef61093f"
+  },
+  "name": "Cotton Leggings",
+  "description": "Leggings in soft jersey made from an organic cotton blend. Wide, elasticized waistband.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F52%2F71%2F52711fd47f3bf960b1c77a23fb27e1b9bf098634.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_leggings%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 9.99,
+  "starRating": 4.2,
+  "category": "pants",
+  "availableQty": 5
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef610940"
+  },
+  "name": "Zip-hem Pants",
+  "description": "Pants in woven stretch fabric. High waist with belt loops, zip fly with hook-and-eye fastener, and slim legs with stitched creases at front and concealed zipper at hems.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F73%2F9b%2F739b66375663a15141ecb0748d17b6550c7efe2d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B3%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 34.99,
+  "starRating": 5.1,
+  "category": "pants",
+  "availableQty": 9
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef610941"
+  },
+  "name": "Culottes",
+  "description": "Culottes with covered elastic at back of waistband, zip fly with hook-and-eye fasteners, and diagonal side pockets. Straight, wide legs with a seam at knees.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa9%2F8e%2Fa98e1b9b87b20ab76e720b26163c7b0fd8cd1ad8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_culottes%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 34.99,
+  "starRating": 4.7,
+  "category": "pants",
+  "availableQty": 14
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef610942"
+  },
+  "name": "Crease-front Leggings",
+  "description": "Leggings in stretch fabric. High waist and concealed, elasticized waistband. Stitched creases on legs and raw-edge hems.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F48%2F58%2F48589c568d746202e3b72cc76bf723fea94c55e8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 4.6,
+  "category": "pants",
+  "availableQty": 22
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef610943"
+  },
+  "name": "Faux Leather Leggings",
+  "description": "Leggings in stretch faux leather with a high waist and concealed, elasticized waistband.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F35%2F21%2F3521e2725a3eb5d59dff2f7d497c75e82a4db093.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 3,
+  "category": "pants",
+  "availableQty": 24
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef610944"
+  },
+  "name": "Super Slim-fit Pants",
+  "description": "Pants in superstretch twill. High waist, concealed, elasticized waistband, and slim legs with narrow hems.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ffb%2F2b%2Ffb2b9a46f8b4b55da0f120a47ee212d3e1cbaf1f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_slim%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 17.99,
+  "starRating": 4.9,
+  "category": "pants",
+  "availableQty": 6
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef610945"
+  },
+  "name": "2-pack Jersey Leggings",
+  "description": "Leggings in cotton-blend jersey with an elasticized waistband. Cotton content is organic.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F9d%2F7a%2F9d7ac72bdda6a6d9cc2c1cb74785f8fe9cedba03.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_leggings%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 17.99,
+  "starRating": 3.7,
+  "category": "pants",
+  "availableQty": 10
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef610946"
+  },
+  "name": "Knit Pants",
+  "description": "Soft, knit pants with a high waist, covered, elasticized waistband, and straight, wide legs. Polyester content is recycled.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3e%2F86%2F3e86435bca1b1827fab874e742a279b9f7059d42.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 19.99,
+  "starRating": 4.6,
+  "category": "pants",
+  "availableQty": 21
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef610947"
+  },
+  "name": "Joggers High Waist",
+  "description": "Joggers in sweatshirt fabric. High waist, elasticized waistband with drawstring, side pockets, and elasticized hems. Soft, brushed inside.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F9c%2F80%2F9c80536de9847d90953f7b259ea7cd2d0294f809.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_joggers%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#4CAF50",
+  "price": 24.99,
+  "starRating": 3.4,
+  "category": "pants",
+  "availableQty": 29
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef610948"
+  },
+  "name": "High Waist Pants",
+  "description": "Relaxed-fit pants in woven fabric. High waist with belt loops, pleats, and zip fly with button. Side pockets and tapered, ankle-length legs.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fcb%2Ffc%2Fcbfcb7ba059af8eb7c83df47b87b01b2f328860b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 4.6,
+  "category": "pants",
+  "availableQty": 16
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef610949"
+  },
+  "name": "Wide-cut Jeans",
+  "description": "Ankle-length jeans in stretch denim. High waist, zip fly with button, a coin pocket, and back pockets. Straight, wide legs. Cotton content is partly recycled.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ffe%2F3f%2Ffe3f8579a25f526a462b1ef5f7e64e5fc2a99722.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 3.8,
+  "category": "pants",
+  "availableQty": 29
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef61094a"
+  },
+  "name": "Slacks",
+  "description": "Ankle-length slacks in woven, stretch fabric. Regular waist, concealed elasticized waistband, and zip fly with concealed hook-and-eye fastener. Side pockets, mock welt back pockets, and tapered legs.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F35%2Fe3%2F35e3d55f6aed6ab0cb6b6e947559e062c226a979.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_chinosslacks%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 19.99,
+  "starRating": 4.4,
+  "category": "pants",
+  "availableQty": 26
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef61094b"
+  },
+  "name": "Corduroy Pants",
+  "description": "5-pocket, ankle-length pants in cotton corduroy with a gentle stretch. High waist, zip fly, and straight, slim legs.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F62%2F93%2F6293f2689d9a9eea05162abbdd24702108fa6d1b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 29.99,
+  "starRating": 4.9,
+  "category": "pants",
+  "availableQty": 12
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef61094c"
+  },
+  "name": "Twill Cargo Pants",
+  "description": "Ankle-length pants in cotton twill. High waist, elasticized waistband, side pockets, and leg pockets with flap. Tapered legs with elasticized hems.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5e%2F64%2F5e64be1d14b925d674ffe2d89711d78c4d888e8b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_joggers%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 17.99,
+  "starRating": 5,
+  "category": "pants",
+  "availableQty": 6
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef61094d"
+  },
+  "name": "Pull-on Pants",
+  "description": "Pants in woven fabric with a high waist. Elasticized drawstring waistband, side pockets, and mock welt back pockets. Tapered legs with elasticized hems.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F78%2Fa3%2F78a31a2e21bb545bb8fb21c7f2e6b81ef5ae2dc5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#4CAF50",
+  "price": 29.99,
+  "starRating": 4.1,
+  "category": "pants",
+  "availableQty": 14
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef61094e"
+  },
+  "name": "Fine-knit Joggers",
+  "description": "Soft, fine-knit joggers with wool content. Regular waist and waistband with covered elastic and drawstring. Side pockets, tapered legs, and short slits at hems.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7b%2Fa0%2F7ba06ccc9586e0a0c027e8335770cb881ae6b480.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 29.99,
+  "starRating": 3.5,
+  "category": "pants",
+  "availableQty": 20
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef61094f"
+  },
+  "name": "Flared Leggings",
+  "description": "Flared leggings in jersey. High waist, covered, elasticized waistband, and slit at hems.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb5%2Fad%2Fb5ad0add8ecf845d747202eb4b6780a66584aefd.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 3.9,
+  "category": "pants",
+  "availableQty": 15
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef610950"
+  },
+  "name": "Oversized Joggers",
+  "description": "Oversized sweatpant joggers with soft, brushed inside. High waist, covered, elasticized waistband with drawstring, and elasticized hems. Polyester content is recycled.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F04%2F88%2F04880e223fb3885d6375179d0ecc20350ca260fb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 4.3,
+  "category": "pants",
+  "availableQty": 11
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef610951"
+  },
+  "name": "Superstretch Treggings",
+  "description": "Treggings in superstretch twill with an elasticized waistband, mock front pockets, and regular back pockets. Skinny legs.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F69%2Fea%2F69eaa33dbcefdb79357894bf9a3aebe0ab9412ad.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_slim%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 17.99,
+  "starRating": 3.8,
+  "category": "pants",
+  "availableQty": 15
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef610952"
+  },
+  "name": "Suit Pants",
+  "description": "Suit pants in woven stretch fabric with a regular waist and zip fly with concealed hook-and-eye fastener. Side pockets and tapered legs with creases.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F11%2Fca%2F11ca3e84389aa88490fc53cd7974d551e115eb83.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_chinosslacks%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 29.99,
+  "starRating": 4.9,
+  "category": "pants",
+  "availableQty": 11
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef610953"
+  },
+  "name": "Wide-cut Pants",
+  "description": "Pants in thick jersey with a high waist, pleats at top, and zip fly with hook-and-eye fastener. Diagonal side pockets and straight, wide legs.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1e%2Fea%2F1eea3ee885a9a1466a077b59c3baeb94698530c2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#795548",
+  "price": 49.99,
+  "starRating": 4.5,
+  "category": "pants",
+  "availableQty": 27
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef610954"
+  },
+  "name": "Ankle-length Joggers",
+  "description": "Ankle-length joggers in soft, cotton-blend sweatshirt fabric. High waist with elasticized waistband and drawstring, side pockets, and covered elastic at hems. Soft, brushed inside. Polyester content is recycled.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F9e%2F7e%2F9e7e66faeaf48790b360be37bb1532e3c6313cd4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 17.99,
+  "starRating": 3.5,
+  "category": "pants",
+  "availableQty": 16
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef610955"
+  },
+  "name": "Mom Loose-fit Twill Pants",
+  "description": "Loose-fit, 5-pocket, ankle-length pants in twill. High waist, zip fly with button, and gently tapered legs.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F22%2F46%2F224680700dae224983103cb7f7638210b0ed0ea9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 17.99,
+  "starRating": 3.9,
+  "category": "pants",
+  "availableQty": 5
+},{
+  "_id": {
+    "$oid": "5fb80e2d8a521687ef610956"
+  },
+  "name": "Slim Fit Cargo Pants",
+  "description": "Ankle-length pants in stretch twill with Tencel™ lyocell content. Regular waist, zip fly with button, and slim legs with seams at knees. Mock back pockets with flap, diagonal side pockets, and leg pockets with flap.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa7%2F12%2Fa7124e39eb28f4b01116af1135a2ab0e1f152ec5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_cargo%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 39.99,
+  "starRating": 3.8,
+  "category": "pants",
+  "availableQty": 8
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef610957"
+  },
+  "name": "Jacquard-weave Dress",
+  "description": "Calf-length dress in jacquard-weave fabric. Round neckline, opening at back of neck with a covered button, long, raglan balloon sleeves, and narrow cuffs with button. Seam at waist with double drawstring and narrow ties. Flared skirt with a tier. Jersey lining.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4a%2F31%2F4a3177c633bdf15b66c35f9bf04158d6c68b8c73.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#4CAF50",
+  "price": 49.99,
+  "starRating": 3.3,
+  "category": "dresses",
+  "availableQty": 15
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef610958"
+  },
+  "name": "Puff-sleeved Dress",
+  "description": "Calf-length dress in airy, woven viscose fabric. Cut-out section at back, button at back of neck, and concealed zipper at one side. Gathered seam below bust, long puff sleeves, and wide cuffs with buttons. Narrow, covered elastic at back of waist. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc5%2Fa0%2Fc5a0599c9f50798a068c9b82c65a2b00838acb08.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_dresses_mididresses%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 39.99,
+  "starRating": 4.2,
+  "category": "dresses",
+  "availableQty": 17
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef610959"
+  },
+  "name": "Faux Leather Dress",
+  "description": "Short dress in soft faux leather with a gentle A-line cut. Elbow-length balloon sleeves with a puff at shoulders and narrow, covered elastic at hems. Decorative seams at front and concealed zipper at back. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F48%2Ff8%2F48f8348c5622eb369350613584dd32c7b51264a1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_dresses_aline%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 34.99,
+  "starRating": 3.9,
+  "category": "dresses",
+  "availableQty": 20
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef61095a"
+  },
+  "name": "Button-top Dress",
+  "description": "Calf-length dress in woven, crinkled fabric. Low stand-up collar, covered buttons at top, wide, raglan sleeves, and cuffs with covered buttons. Gathered seam at waist and a softly draped, A-line skirt. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa0%2Fa8%2Fa0a85036d896dad4c32ef059406b90c08513ec76.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#4CAF50",
+  "price": 39.99,
+  "starRating": 4.3,
+  "category": "dresses",
+  "availableQty": 21
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef61095b"
+  },
+  "name": "Collared Dress",
+  "description": "Short, A-line dress in airy, woven cotton fabric. Ruffle-trimmed Peter Pan collar, buttons at front, short, lined puff sleeves, and narrow cuffs with button. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F95%2Fb3%2F95b39c7016e7ed4748a51055fa0c503f86b8a3ef.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 29.99,
+  "starRating": 4.7,
+  "category": "dresses",
+  "availableQty": 16
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef61095c"
+  },
+  "name": "Ribbed Turtleneck Dress",
+  "description": "Short, fitted dress in soft, ribbed viscose jersey. Turtleneck, long sleeves, and a large cut-out section at back.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Feb%2Fb3%2Febb379c3a0f4978ed0e7cb99a17d0b81c609c7db.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 4.2,
+  "category": "dresses",
+  "availableQty": 5
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef61095d"
+  },
+  "name": "Puff-sleeved Satin Dress",
+  "description": "Short, fitted dress in satin. Stand-up collar, hook-and-eye fasteners at back of neck, and zipper at back. Seam at waist and gently flared skirt. Short, gathered puff sleeves with a slit. Sleeves lined in jersey made from recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F90%2F22%2F90222227f246ab5c26c010cd467118981a05df13.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_dresses_party%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#F44336",
+  "price": 29.99,
+  "starRating": 5.1,
+  "category": "dresses",
+  "availableQty": 9
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef61095e"
+  },
+  "name": "Rib-knit Dress",
+  "description": "Fitted, calf-length dress in a rib-knit cotton blend. Round neckline and long sleeves.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4e%2F0f%2F4e0f28a5feef74c136778ae99811b5b646392224.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_basics_dressesskirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#F44336",
+  "price": 19.99,
+  "starRating": 4.7,
+  "category": "dresses",
+  "availableQty": 14
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef61095f"
+  },
+  "name": "Knit Dress",
+  "description": "Short dress in soft knit fabric. Round neckline, dropped shoulders, and long balloon sleeves. Ribbing at neckline, cuffs, and hem.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F88%2Fbd8837fc7e11e5eac14b889b70aa66c359b565a4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_dresses_shortdresses%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#FFFFFF",
+  "price": 29.99,
+  "starRating": 4.6,
+  "category": "dresses",
+  "availableQty": 22
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef610960"
+  },
+  "name": "Calf-length Dress",
+  "description": "Calf-length dress in woven fabric. Round neckline with gathers at front, opening at back, and covered button at back of neck. Long sleeves, gathered seam at waist, and flared skirt. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F97%2F82%2F97824f290208e5fe6fb6f8c95edeae43cbd53244.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_dresses_mididresses%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 29.99,
+  "starRating": 3,
+  "category": "dresses",
+  "availableQty": 24
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef610961"
+  },
+  "name": "Lace Dress",
+  "description": "Short, A-line dress in lace. Round, gathered neckline, opening at back of neck with button, and 3/4-length, raglan balloon sleeves with narrow cuffs. Gathered seam above hem for added volume. Lining in jersey made from recycled polyester.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3d%2Fd4%2F3dd4642240c2d223ee7016c4646d8001f53e04a3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_dresses_lace%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 39.99,
+  "starRating": 4.9,
+  "category": "dresses",
+  "availableQty": 6
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef610962"
+  },
+  "name": "Hooded Sweatshirt Dress",
+  "description": "Short, straight-cut dress in sweatshirt fabric. Lined hood and kangaroo pocket. Dropped shoulders, long sleeves, and ribbing at cuffs and hem. Soft, brushed inside.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fdc%2F3d%2Fdc3de04df4f00318b6bd5658263850c25340a0ec.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_dresses_sweater%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 3.7,
+  "category": "dresses",
+  "availableQty": 10
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef610963"
+  },
+  "name": "Bouclé Dress",
+  "description": "Short, fitted dress in woven, textured bouclé. Concealed zipper at back, short sleeves, and mock front pockets with decorative button. Frayed, raw edges at neckline, cuffs, and hem. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fdc%2F05%2Fdc05252683b9949b3f7a75940a31421bba9bcbd6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 49.99,
+  "starRating": 4.6,
+  "category": "dresses",
+  "availableQty": 21
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef610964"
+  },
+  "name": "Ruffled-collar Dress",
+  "description": "Short, straight-cut dress in woven fabric. High, ruffled collar, covered buttons at front, and a yoke. Long, wide puff sleeves and cuffs with a short slit and button. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F31%2Fd5%2F31d51e4309cd5425b0d8fca70ce1050f8d26e9aa.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 34.99,
+  "starRating": 3.4,
+  "category": "dresses",
+  "availableQty": 29
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef610965"
+  },
+  "name": "Sweatshirt Dress",
+  "description": "Knee-length sweatshirt dress in a cotton and recycled polyester blend. Long, wide raglan sleeves with a gathered seam. Ribbing at neckline and cuffs. Soft, brushed inside.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F53%2F30%2F53309206c6df207b5229ecb9b1147951fb79e45f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_dresses_mididresses%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 34.99,
+  "starRating": 4.6,
+  "category": "dresses",
+  "availableQty": 16
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef610966"
+  },
+  "name": "Fine-knit Dress",
+  "description": "Soft, fine-knit dress with a V-neck, dropped shoulders, and long sleeves. Short slits at sides. Unlined. Polyester and polyamide content is recycled.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4f%2F66%2F4f66bd5a57543137ba9248368d5b1fd2a77bdfa8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 34.99,
+  "starRating": 3.8,
+  "category": "dresses",
+  "availableQty": 29
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef610967"
+  },
+  "name": "Pleated-skirt Dress",
+  "description": "Knee-length dress in viscose-blend jersey. Scallop-edged stand-up collar and opening at back of neck with buttons. Short, scallop-edged sleeves, seam at waist. and a gently flared, pleated skirt. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3c%2F5e%2F3c5e929c84c6738ba5111fc31fc35967c112ed77.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#F44336",
+  "price": 49.99,
+  "starRating": 4.4,
+  "category": "dresses",
+  "availableQty": 26
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef610968"
+  },
+  "name": "Faux Leather Shirt Dress",
+  "description": "Short shirt dress in soft faux leather. Collar, covered snap fasteners at front, and open chest pocket. Dropped shoulders, long, voluminous sleeves with snap fastener at cuffs, and a removable tie belt at waist. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff5%2Fc2%2Ff5c2cca66f2c9a7e55ad0ba79b0c153c630ccd92.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 39.99,
+  "starRating": 4.9,
+  "category": "dresses",
+  "availableQty": 12
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef610969"
+  },
+  "name": "Plumeti Chiffon Dress",
+  "description": "Short dress in airy, crinkled plumeti chiffon. Wide neckline, small opening at front with drawstring, and long sleeves with a flounce at cuffs. Narrow, elasticized seam at waist and seam above hem with a wide flounce. Jersey lining.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd0%2Fa4%2Fd0a44fec7788214b0221fc2ee3942ef9d8659d5a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#4CAF50",
+  "price": 24.99,
+  "starRating": 5,
+  "category": "dresses",
+  "availableQty": 6
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef61096a"
+  },
+  "name": "Short Sweatshirt Dress",
+  "description": "Short, straight-cut dress in lightweight sweatshirt fabric with long sleeves and ribbing at neckline and cuffs.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F13%2F54%2F1354967b21eb522d3f6319ad31131a83c49f7ba7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_dresses_shortdresses%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 17.99,
+  "starRating": 4.1,
+  "category": "dresses",
+  "availableQty": 14
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef61096b"
+  },
+  "name": "Ruffled Dress",
+  "description": "Dress in softly draped woven viscose fabric with decorative ruffles. Stand-up collar and concealed buttons at top. Puff at shoulders, long balloon sleeves, and wide, close-fitting cuffs with covered buttons. Seam at waist and gently flared lower section. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F46%2Fa4%2F46a465192865b505042c1322593e43e42ef49d66.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 54.99,
+  "starRating": 3.5,
+  "category": "dresses",
+  "availableQty": 20
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef61096c"
+  },
+  "name": "Pin-tuck-detail Dress",
+  "description": "Calf-length dress in chiffon. Low-cut V-neck, buttons, and pin-tucks at front. Double-layered yoke at back. Long sleeves with narrow trim at cuffs, seam at waist, and gently flared skirt. Satin lining.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5e%2F1b%2F5e1b19bcb7eb791200c6e32c2de0ef16c33d943e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#4CAF50",
+  "price": 39.99,
+  "starRating": 3.9,
+  "category": "dresses",
+  "availableQty": 15
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef61096d"
+  },
+  "name": "Lyocell Shirt Dress",
+  "description": "Short, relaxed-fit dress in soft, woven Tencel™ lyocell. Collar, buttons at front, and gently dropped shoulders. Long sleeves with roll-up tab and button, gathered seam at waist, and wide-cut, softly draped skirt. Slightly longer at back. Unlined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F06%2F1d%2F061d5c96651fd4f7ace3fa8f10d2fc0b4c77a062.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#2196F3",
+  "price": 39.99,
+  "starRating": 4.3,
+  "category": "dresses",
+  "availableQty": 11
+},{
+  "_id": {
+    "$oid": "5fb80fae8a521687ef61096e"
+  },
+  "name": "Lace-detail Plumeti Dress",
+  "description": "Short dress in airy plumeti with low-cut, lace-trimmed, wrapover V-neck. Long, wide sleeves with narrow elastic at cuffs. Concealed elastic at waist, flared skirt, and lace-trimmed flounce at hem. Lined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7e%2Fe5%2F7ee57f6e16cc9b8f29904504ece83236fba1be12.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#F44336",
+  "price": 39.99,
+  "starRating": 3.8,
+  "category": "dresses",
+  "availableQty": 15
+},{
+  "_id": {
+    "$oid": "5fb8108d8a521687ef61096f"
+  },
+  "name": "Faux Shearling Hoodie",
+  "description": "Sweater in soft faux shearling. Hood with elastic drawstring, kangaroo pocket, and long sleeves with concealed elastic at cuffs. Elastic drawstring at hem.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F61%2F80%2F6180c3af978ff82f3e2affb88d32c0b4293efb92.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_hoodies%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 34.99,
+  "starRating": 3.3,
+  "category": "hoodies",
+  "availableQty": 15
+},{
+  "_id": {
+    "$oid": "5fb8108d8a521687ef610970"
+  },
+  "name": "Hoodie",
+  "description": "Sweatshirt with a jersey-lined hood with drawstring and wrapover front. Dropped shoulders, long sleeves, and side-seam pockets. Ribbing at cuffs and hem. Soft, brushed inside.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F25%2Ff2%2F25f24df537fd98dbafebe2744ac57bdc0273685c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_hoodies%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#2196F3",
+  "price": 24.99,
+  "starRating": 4.2,
+  "category": "hoodies",
+  "availableQty": 17
+},{
+  "_id": {
+    "$oid": "5fb8108d8a521687ef610971"
+  },
+  "name": "Chimney-collar Sweatshirt",
+  "description": "Sweatshirt in a cotton blend. Jersey-lined, wrapover chimney collar with drawstring. Long raglan sleeves, kangaroo pocket, and ribbing at cuffs and hem.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F35%2Fb5%2F35b5aae86ff1d70b885ce32fde3c336e7975d39c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_sweatshirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#2196F3",
+  "price": 29.99,
+  "starRating": 3.9,
+  "category": "hoodies",
+  "availableQty": 20
+},{
+  "_id": {
+    "$oid": "5fb8108d8a521687ef610972"
+  },
+  "name": "Relaxed Fit Hoodie",
+  "description": "Relaxed-fit sweatshirt hoodie. Lined drawstring hood, kangaroo pocket, long sleeves, and ribbing at cuffs and hem. Soft, brushed inside.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc7%2Fe8%2Fc7e8fea56376f629621401c543e854a6c3dc4489.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_hoodies%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#F44336",
+  "price": 24.99,
+  "starRating": 4.3,
+  "category": "hoodies",
+  "availableQty": 21
+},{
+  "_id": {
+    "$oid": "5fb8108d8a521687ef610973"
+  },
+  "name": "Relaxed Fit Sweatshirt",
+  "description": "Soft, slightly looser-fit sweatshirt with dropped shoulders and ribbing at neckline, cuffs, and hem. Soft, brushed inside.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe0%2F6e%2Fe06e293dda91099047333916ffcd9633be4f472a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_sweatshirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#795548",
+  "price": 14.99,
+  "starRating": 4.7,
+  "category": "hoodies",
+  "availableQty": 16
+},{
+  "_id": {
+    "$oid": "5fb8108d8a521687ef610974"
+  },
+  "name": "Fleece Hoodie",
+  "description": "Hoodie in soft fleece with yoke and kangaroo pocket in woven fabric. Hood with elasticized drawstring, dropped shoulders, and covered elastic at cuffs and hem.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0a%2Fee%2F0aee65e9532f56dc57b23e951420eb86749e8675.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 34.99,
+  "starRating": 4.2,
+  "category": "hoodies",
+  "availableQty": 5
+},{
+  "_id": {
+    "$oid": "5fb8108d8a521687ef610975"
+  },
+  "name": "Regular Fit Hooded Jacket",
+  "description": "Sweatshirt jacket with a jersey-lined drawstring hood. Zip at front, side pockets, and ribbing at cuffs and hem. Soft, brushed inside. Regular Fit.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F9e%2Ffc%2F9efc3656eb630aca1e9ed58646138fed17be1f19.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 5.1,
+  "category": "hoodies",
+  "availableQty": 9
+},{
+  "_id": {
+    "$oid": "5fb8108d8a521687ef610976"
+  },
+  "name": "Regular Fit Hoodie",
+  "description": "Cotton sweatshirt with a lined hood with drawstring and wrapover front. Kangaroo pocket, long sleeves, and ribbing at cuffs and hem.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd0%2Fc2%2Fd0c2cd9c0713d7c92f989bce0872cba5e02270ab.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_hoodies%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 4.7,
+  "category": "hoodies",
+  "availableQty": 14
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef610977"
+  },
+  "name": "Cotton Jersey Cycling Shorts",
+  "description": "Cycling shorts in stretch cotton jersey with an elasticized waistband.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F48%2Fc9%2F48c9bc5ec7c05066d9f921a4d3406f292b0c7228.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_shorts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 9.99,
+  "starRating": 3.3,
+  "category": "shorts",
+  "availableQty": 15
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef610978"
+  },
+  "name": "Seamless Ribbed Biker Shorts",
+  "description": "Biker shorts in ribbed jersey with a high waist and elasticized waistband. Designed with minimum number of seams for seamless comfort on skin.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff2%2F47%2Ff247d0ed5b970b2f2708bdc6c35b26dc65eb9ccf.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 12.99,
+  "starRating": 4.2,
+  "category": "shorts",
+  "availableQty": 17
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef610979"
+  },
+  "name": "Faux Leather Shorts",
+  "description": "Shorts in grained faux leather with pleats at front. High waist, belt with metal D-rings, and zip fly with concealed button and hook-and-eye fastener. Diagonal side pockets and mock back pockets. Lined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa1%2Fe0%2Fa1e0d8740e87f0e879b751bfe18a90b86d13c312.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 34.99,
+  "starRating": 3.9,
+  "category": "shorts",
+  "availableQty": 20
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef61097a"
+  },
+  "name": "Belted Shorts",
+  "description": "Short shorts in soft faux leather. High waist, removable belt with D-rings, and side pockets. Lined.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F11%2F20%2F1120e5a27efacd34fac884d22b8a39a5f41b6860.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 24.99,
+  "starRating": 4.3,
+  "category": "shorts",
+  "availableQty": 21
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef61097b"
+  },
+  "name": "Sweatshorts",
+  "description": "Short, lightweight sweatshorts. Elasticized waistband with drawstring, side pockets, and rounded hems.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb9%2F61%2Fb96146930408766fe3e6dfd2eaa6a9261107f1e9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_shorts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 12.99,
+  "starRating": 4.7,
+  "category": "shorts",
+  "availableQty": 16
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef61097c"
+  },
+  "name": "Denim Shorts High Waist",
+  "description": "Shorts in washed cotton denim with a high waist. Pleats at front, zip fly with button, diagonal side pockets, and back pockets. Made partly from recycled cotton.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1b%2F39%2F1b3970a8dd990bb7f9a8551227952bae2807f14e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#2196F3",
+  "price": 29.99,
+  "starRating": 4.2,
+  "category": "shorts",
+  "availableQty": 5
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef61097d"
+  },
+  "name": "Mom Fit Denim Shorts",
+  "description": "5-pocket shorts in washed cotton denim with heavily distressed details. High waist, zip fly with button, and sewn foldover cuffs. Cotton content is partly recycled.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa4%2F49%2Fa449ac4f6e07464cd9fdb53895d8a1682f5ea507.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#2196F3",
+  "price": 19.99,
+  "starRating": 5.1,
+  "category": "shorts",
+  "availableQty": 9
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef61097e"
+  },
+  "name": "Cycling Shorts High Waist",
+  "description": "Cycling shorts in stretch cotton jersey with a high waist and elasticized waistband.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F77%2F8a%2F778a35b5ae4897eb6b0a82bcf2c7345363aca1ef.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_shorts_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 5.99,
+  "starRating": 4.7,
+  "category": "shorts",
+  "availableQty": 14
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef61097f"
+  },
+  "name": "Cotton Paper-bag Shorts",
+  "description": "Shorts in cotton twill. High paper-bag waist with ruffle trim, elasticized waistband, and zip fly with buttons. Side pockets and wide legs with sewn foldover cuffs.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Feb%2Fe6%2Febe604128ab5f718b2e159a453f4ded56ba1620a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_shorts_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 12.99,
+  "starRating": 4.6,
+  "category": "shorts",
+  "availableQty": 22
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef610980"
+  },
+  "name": "Wide-leg Sweatshorts",
+  "description": "Sweatshorts in cotton-blend fabric. High waist, elasticized waistband with drawstring, and welt side pockets. Wide legs with slits.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe8%2Fb4%2Fe8b467b289d91a46682ff201015bf41b3a8fcbe8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_shorts_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 12.99,
+  "starRating": 3,
+  "category": "shorts",
+  "availableQty": 24
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef610981"
+  },
+  "name": "Shorts High Waist",
+  "description": "Shorts in superstretch twill with a high waist. Zip fly with button, back pockets, and sewn cuffs at hems.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0e%2Fd4%2F0ed4f3cdda5f5b530969a51db2a094730adf7b1d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_shorts_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 17.99,
+  "starRating": 4.9,
+  "category": "shorts",
+  "availableQty": 6
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef610982"
+  },
+  "name": "Denim Shorts",
+  "description": "Short shorts in washed, stretch denim. Regular waist, front and back pockets, and sewn cuffs.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F39%2F7d%2F397d22917ff9d6ba21219ac8cad9dbf15d9d87e3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_shorts_jeans%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#2196F3",
+  "price": 9.99,
+  "starRating": 3.7,
+  "category": "shorts",
+  "availableQty": 10
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef610983"
+  },
+  "name": "Denim Overall Shorts",
+  "description": "Overall shorts in washed cotton denim with heavily distressed details. Adjustable suspenders, mock fly, and buttons at sides. Bib pocket, side pockets, and back pockets. Sewn foldover cuffs at hems.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F28%2F02%2F2802244212590a59144d5c134624c8ddd761bf05.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_shorts_jeans%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#2196F3",
+  "price": 39.99,
+  "starRating": 4.6,
+  "category": "shorts",
+  "availableQty": 21
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef610984"
+  },
+  "name": "Wide-leg Bermuda Shorts",
+  "description": "Wide-leg, knee-length shorts in woven fabric with linen content. High waist, wide waistband with buttons, safety button inside, and belt loops. Zip fly, diagonal side pockets, and welt back pockets. Straight legs with pleats for added volume.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F68%2F21%2F6821e6e48ac5a5374ac6fac94154ee686fbcb0eb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_shorts_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 29.99,
+  "starRating": 3.4,
+  "category": "shorts",
+  "availableQty": 29
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef610985"
+  },
+  "name": "Sweatshorts High Waist",
+  "description": "Lightweight sweatshorts with a high waist, elasticated waistband with drawstring, and side pockets.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F62%2F20%2F622014e47e3a7331e035efd8358eed3bc8a8db0f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_shorts_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#212121",
+  "price": 12.99,
+  "starRating": 4.6,
+  "category": "shorts",
+  "availableQty": 16
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef610986"
+  },
+  "name": "Tie-belt Shorts",
+  "description": "Shorts in woven fabric. High waist with pleats at front, elastic at back of waistband, and zip fly with concealed hook-and-eye fasteners. Removable tie belt. Side pockets.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1b%2Fb2%2F1bb2c2c11ef624322a0cfeb3809f0adea49a5233.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_shorts_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#4CAF50",
+  "price": 24.99,
+  "starRating": 3.8,
+  "category": "shorts",
+  "availableQty": 29
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef610987"
+  },
+  "name": "Pull-on Shorts",
+  "description": "Shorts in softly draped woven viscose fabric. Regular waist, elasticized waistband with drawstring, and side-seam pockets.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2d%2Fe5%2F2de56540a4026aa513fb91bd48b55cdeb854b0da.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_shorts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#4CAF50",
+  "price": 12.99,
+  "starRating": 4.4,
+  "category": "shorts",
+  "availableQty": 26
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef610988"
+  },
+  "name": "Ribbed Cycling Shorts",
+  "description": "Cycling shorts in ribbed jersey. High waist and covered, elasticized waistband.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F7c%2Fbd7cf41b34e184d33ff25c530e07ad32b193d0a8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_shorts_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#4CAF50",
+  "price": 12.99,
+  "starRating": 4.9,
+  "category": "shorts",
+  "availableQty": 12
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef610989"
+  },
+  "name": "Embrace High Denim Shorts",
+  "description": "Short, 5-pocket shorts in washed denim with distressed details. High waist, zip fly, and skinny legs. Smart stretch function – molds to body for a comfortable and flattering fit. Made partly from recycled cotton.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F30%2F85%2F3085a83a0f6097fa84d2cf381b196d04f28b10cd.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_shorts_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#2196F3",
+  "price": 29.99,
+  "starRating": 5,
+  "category": "shorts",
+  "availableQty": 6
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef61098a"
+  },
+  "name": "Denim Paper-bag Shorts",
+  "description": "Shorts in thick cotton denim. High paper-bag waist with elasticized waistband, removable tie belt, and zip fly with buttons. Front pockets, back pockets, and sewn foldover cuffs.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0f%2F4e%2F0f4ee6062f99997ff7031b9f819b9c66fcd72fe4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_shorts_jeans%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#2196F3",
+  "price": 29.99,
+  "starRating": 4.1,
+  "category": "shorts",
+  "availableQty": 14
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef61098b"
+  },
+  "name": "Embrace High Bermuda Shorts",
+  "description": "5-pocket shorts in washed, stretch denim. High waist, zip fly with button, and slim legs with sewn foldover cuffs. Cotton content is partly recycled. Embrace – denim with smart stretch function that molds to body for a comfortable, flattering silhouette.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F57%2Fe6%2F57e6870eefe061aaff00ec44542d4850a256b2e3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_shorts_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "M",
+  "color": "#2196F3",
+  "price": 29.99,
+  "starRating": 3.5,
+  "category": "shorts",
+  "availableQty": 20
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef61098c"
+  },
+  "name": "Short Twill Shorts",
+  "description": "Short 5-pocket shorts in stretch cotton twill with a regular waist, zip fly, and sewn cuffs at hems.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2e%2Ffd%2F2efd80ee55f4ac4ffb57267a548b388b4867103d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_shorts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#212121",
+  "price": 12.99,
+  "starRating": 3.9,
+  "category": "shorts",
+  "availableQty": 15
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef61098d"
+  },
+  "name": "Crinkled Shorts",
+  "description": "Shorts in woven, crinkled viscose fabric. High waist with covered, elasticized waistband, decorative ties at front, and narrow ruffle trim at top.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fcd%2F07%2Fcd078c4ab6ce5ff486a371dd519a912330097a23.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_shorts_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "L",
+  "color": "#212121",
+  "price": 17.99,
+  "starRating": 4.3,
+  "category": "shorts",
+  "availableQty": 11
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef61098e"
+  },
+  "name": "Shorts",
+  "description": "Shorts in woven fabric with decorative, shiny buttons at front. High waist, shaping darts at back, and concealed side zipper with button at top. Rounded hems.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8c%2F73%2F8c731c4add971a27dc379769e8a6c9f1ed848754.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_shorts_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XL",
+  "color": "#212121",
+  "price": 29.99,
+  "starRating": 3.8,
+  "category": "shorts",
+  "availableQty": 15
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef61098f"
+  },
+  "name": "Wide-cut Shorts",
+  "description": "Shorts in airy, woven viscose fabric. High waist, wide elasticized waistband, and short, wide legs.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc4%2F3d%2Fc43dfe6dba284581c5d354b7963f759569c3e819.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "size": "XS",
+  "color": "#212121",
+  "price": 12.99,
+  "starRating": 4.9,
+  "category": "shorts",
+  "availableQty": 11
+},{
+  "_id": {
+    "$oid": "5fb811e28a521687ef610990"
+  },
+  "name": "Denim Shorts Boyfriend",
+  "description": "Looser-fit, 5-pocket shorts in washed denim with distressed details. Regular waist, button fly, and sewn foldover cuffs at hems. Cotton content is partly organic.",
+  "imageUrl": "//lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe5%2F3b%2Fe53bd9b9c10bfe57fbe95904c002cc16a8b07300.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_shorts_jeans%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+  "size": "S",
+  "color": "#2196F3",
+  "price": 24.99,
+  "starRating": 4.5,
+  "category": "shorts",
+  "availableQty": 27
+}]
