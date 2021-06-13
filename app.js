@@ -8,6 +8,7 @@ const app = express();
 const accessControlMiddleware = require("./utils/access-control.middleware");
 
 var corsOptions = { origin: process.env.FRONTEND_URL };
+const PORT = 5000;
 
 // Add headers
 app.use(accessControlMiddleware.accessControlSetup);
@@ -42,5 +43,4 @@ require("./routes/item.routes.js")(app);
 require("./routes/user.routes.js")(app);
 require("./routes/auth.routes.js")(app);
 
-const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => console.log(`Server is running on port ${PORT}.`));

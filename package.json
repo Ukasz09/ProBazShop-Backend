@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon app.js",
+    "docker-clean-build": "sudo docker system prune -f && npm run docker-build",
+    "docker-build": "sudo docker build -t probaz-backend  .",
+    "docker-run": "sudo docker run -it --network=host probaz-backend"
   },
   "author": "",
   "license": "ISC",
